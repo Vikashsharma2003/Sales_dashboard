@@ -9,13 +9,13 @@
 ![Sales Overview](Screenshots/page1_sales_overview.png)
 
 ### Page 2 —Order Analysis
-![Product](Screenshots/page2_product_performance.png)
+![Product](Screenshots/page2_order_analysis.png)
 
 ### Page 3 — Customer Analysis
 ![Customer](Screenshots/page3_customer_analysis.png)
 
 ### Page 4 — Product Analysis
-![Order](Screenshots/page4_order_analysis.png)
+![Order](Screenshots/page4_product_performance.png)
 
 ## 📌 Project Overview
 
