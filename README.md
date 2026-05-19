@@ -49,6 +49,13 @@ sales-analytics/
 ├── powerbi/
 │   └── sales_dashboard.pbix
 │
+│
+├── Screenshot/
+│     ├── page1_sales_overview.png
+│     ├── page2_order_analysis.png
+│     ├── page3_customer_analysis.png
+│     ├── page4_product_performance.png
+│
 └── README.md
 ```
 
