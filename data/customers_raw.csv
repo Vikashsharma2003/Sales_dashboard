@@ -1,0 +1,301 @@
+customer_id,first_name,last_name,email,phone,gender,city,state,signup_date,membership
+CUST0001,Dev,Mehta,dev.mehta94@gmail.com,726032945,male,SURAT,Gujarat,24/01/2021,
+CUST0002,Ananya,Gupta,ananya.gupta2@yahoo.com,,MALE,Ahmedabad,Gujarat,2020-12-06,Bronze
+CUST0003,Siddharth,Sharma,siddharth.sharma90@yahoo.com,822513611,Male,Calcutta,W Bengal,23-09-2022,Silver
+CUST0004,Sunita,Verma,sunita.verma21@gmail.com,,female,Mumbai,Maharastra,20/05/2020,Gold
+CUST0005,Kunal,Mishra,kunal.mishra73@gmail.com,,M,Hyderabad,Telangana,05/10/2021,GOLD
+CUST0006,Preeti,Gupta,preeti.gupta28@gmail.com,,male,MUMBAI,Maharashtra,20/05/2020,silver
+CUST0007,Yash,Banerjee,yash.banerjee18@gmail.com,9849232839,F,Jaipur,RJ,2020-11-14,silver
+CUST0008,Kavya,Chopra,kavya.chopra36@gmail.com,972423094,MALE,Chennai,Tamil Nadu,20-06-2021,Silver
+CUST0009,Sneha,Gupta,,+91-71547-39678,Male,Bhopal,MP,16/01/2022,Platinum
+CUST0010,Divya,Das,divya.das80@yahoo.com,940468139,MALE,Surat,GJ,2020-11-28,Bronze
+CUST0011,Sunita,Verma,sunita.verma49@yahoo.com,7683749521,female,kolkata,WB,2022-07-31,Silver
+CUST0012,Divya,,divya.joshi45@yahoo.com,+91-72981-59856,M,Calcutta,WB,2023-01-03,silver
+CUST0013,Priya,Patel,priya.patel78@yahoo.com,834723382,Male,LUCKNOW,UP,24-01-2021,Platinum
+CUST0014,Pooja,Iyer,pooja.iyer93@yahoo.com,9849227494,male,New Delhi,DL,2021-10-30,bronze
+CUST0015,Divya,Bhatt,divya.bhatt39@gmail.com,,F,SURAT,gujarat,06/03/2021,
+CUST0016,Dev,Khanna,dev.khanna37@gmail.com,9829742424,female,HYDERABAD,telangana,2021-04-26,Silver
+CUST0017,Priya,,priya.das25@yahoo.com,,Female,Ahmedabad,Gujrat,29/10/2020,Platinum
+CUST0018,Nisha,Pillai,nisha.pillai18@yahoo.com,752123122,FEMALE,Ahmedabad,gujarat,04-05-2023,bronze
+CUST0019,Vivek,Shah,vivek.shah97@gmail.com,+91-89330-34905,FEMALE,ahmedabad,Gujrat,2022-12-03,silver
+CUST0020,Ananya,Kumar,ananya.kumar30@gmail.com,75943-12071,MALE,PUNE,Maharashtra,2022-04-29,Platinum
+CUST0021,Vivek,Iyer,vivek.iyer46@gmail.com,9048612358,female,Kolkata,W Bengal,08/05/2022,Platinum
+CUST0022,Arjun,Iyer,arjun.iyer93@gmail.com,844366539,Male,Ahmedabad,Gujrat,2023-06-28,bronze
+CUST0023,Karan,Malhotra,karan.malhotra28@gmail.com,+91-86282-38707,M,Bangalore,KA,2021-07-23,
+CUST0024,Aarav,Shah,aarav.shah84gmail.com,9792347639,FEMALE,Bombay,maharashtra,11-02-2020,Gold
+CUST0025,Tanvi,Joshi,tanvi.joshi78@yahoo.com,,Male,Ahemdabad,GJ,01/12/2020,bronze
+CUST0026,Siddharth,Joshi,siddharth.joshi88@yahoo.com,+91-74376-62764,F,Delhi NCR,delhi,2020-03-25,GOLD
+CUST0027,Aarav,Iyer,aarav.iyer91@gmail.com,855558577,,Ahmedabad,Gujrat,25/08/2023,
+CUST0028,Lakshmi,Mishra,lakshmi.mishra58@gmail.com,+91-73722-14308,F,Madras,tamil nadu,2022-02-15,
+CUST0029,Vikram,Agarwal,vikram.agarwal72@gmail.com,+91-95604-66250,FEMALE,Madras,TN,12-04-2022,
+CUST0030,Dev,Sharma,dev.sharma40@yahoo.com,87368-89606,F,New Delhi,delhi,05/12/2021,
+CUST0031,Arjun,Nair,arjun.nair16@yahoo.com,+91-78271-43233,,chennai,Tamil Nadu,27-01-2021,silver
+CUST0032,Sneha,Joshi,,+91-77706-95571,male,chennai,TN,21-04-2020,
+CUST0033,Sneha,Sharma,sneha.sharma44@gmail.com,905606186,FEMALE,Lko,U.P.,2022-09-05,Silver
+CUST0034,Karan,Singh,karan.singh72@yahoo.com,8065972034,FEMALE,Lko,Uttar Pradesh,07/04/2021,bronze
+CUST0035,Meera,Mishra,meera.mishra34@yahoo.com,78924-42253,FEMALE,Lucknow,Uttar Pradesh,02/06/2020,Silver
+CUST0036,Ananya,Nair,ananya.nair88@gmail.com,8950049698,MALE,bhopal,MP,2023-04-22,Platinum
+CUST0037,Amit,Singh,amit.singh40@gmail.com,72561-43439,MALE,chennai,Tamil Nadu,18/06/2022,
+CUST0038,Dev,,dev.gupta33@gmail.com,,M,Lucknow,U.P.,24-03-2023,Silver
+CUST0039,Aditya,Reddy,aditya.reddy56@yahoo.com,,Female,AHMEDABAD,GJ,2021-12-13,GOLD
+CUST0040,Lakshmi,,lakshmi.chopra41@gmail.com,8953462417,,CHENNAI,Tamil Nadu,19/11/2022,bronze
+CUST0041,Priya,Joshi,priya.joshi98@gmail.com,968611009,Female,JAIPUR,Rajsthan,2021-08-12,Platinum
+CUST0042,Raj,Reddy,raj.reddy15@gmail.com,74003-30495,M,Chennai,Tamilnadu,17/10/2022,
+CUST0043,Ishaan,Das,ishaan.das66@yahoo.com,,M,ahmedabad,Gujrat,2022-04-29,silver
+CUST0044,Sunita,Nair,sunita.nair62@gmail.com,,female,LUCKNOW,uttar pradesh,21-07-2022,bronze
+CUST0045,Ananya,Iyer,ananya.iyer85@yahoo.com,863737531,F,Bombay,Maharastra,2020-03-16,
+CUST0046,Sneha,Pillai,sneha.pillai10@gmail.com,87608-44750,,Ahmedabad,gujarat,25/03/2022,GOLD
+CUST0047,Amit,Chopra,amit.chopra30@yahoo.com,+91-80083-30525,male,Jaipur,Rajasthan,21-07-2023,silver
+CUST0048,Kunal,Sharma,kunal.sharma48@gmail.com,+91-82600-05019,Female,Bombay,Maharashtra,28-10-2023,bronze
+CUST0049,Yash,Khanna,,799724176,male,HYDERABAD,telangana,2022-08-10,
+CUST0050,Pooja,Mishra,pooja.mishra26@yahoo.com,+91-89620-94851,M,CHENNAI,TN,2022-02-20,bronze
+CUST0051,Arjun,Sharma,arjun.sharma78@yahoo.com,82291-94523,male,Lucknow,U.P.,28-05-2021,Gold
+CUST0052,Kunal,Banerjee,kunal.banerjee75@gmail.com,8893321208,male,Surat,GJ,31-10-2021,GOLD
+CUST0053,Kavya,Pillai,kavya.pillai96@yahoo.com,+91-90695-20666,MALE,chennai,TN,03-06-2020,GOLD
+CUST0054,Rohan,Bhatt,rohan.bhatt87@yahoo.com,+91-89532-91127,female,Bombay,Maharashtra,31/07/2023,Silver
+CUST0055,Yash,Shah,yash.shah90@gmail.com,972903906,Female,pune,Maharashtra,2020-03-17,Bronze
+CUST0056,Siddharth,Malhotra,siddharth.malhotra63@yahoo.com,8781915481,female,Poona,maharashtra,28/01/2022,Gold
+CUST0057,Divya,Agarwal,divya.agarwal25@yahoo.com,+91-87099-96749,Male,JAIPUR,Rajasthan,2020-07-06,GOLD
+CUST0058,Ananya,Singh,ananya.singh76@gmail.com,93803-04322,M,lucknow,Uttar Pradesh,2020-10-29,Bronze
+CUST0059,Nikhil,Kumar,nikhil.kumar46@yahoo.com,7566090561,MALE,Bangalore,Karnataka,22-12-2020,Gold
+CUST0060,Sunita,Gupta,sunita.gupta14@gmail.com,,Male,AHMEDABAD,GJ,2023-09-11,
+CUST0061,Shreya,Bhatt,shreya.bhatt11@gmail.com,8905085701,F,Kolkata,W Bengal,02/07/2023,silver
+CUST0062,Dev,Pillai,dev.pillai93@yahoo.com,,MALE,LUCKNOW,Uttar Pradesh,27-04-2022,Gold
+CUST0063,Rahul,Iyer,rahul.iyer9@gmail.com,765557918,,PUNE,MH,02-02-2022,GOLD
+CUST0064,Divya,Patel,divya.patel77@gmail.com,+91-72209-59215,Female,Calcutta,W Bengal,12/11/2020,GOLD
+CUST0065,Sneha,Kumar,sneha.kumar79@yahoo.com,,male,lucknow,U.P.,09/09/2023,silver
+CUST0066,Preeti,Verma,preeti.verma85@gmail.com,,MALE,Pune,maharashtra,03/03/2020,
+CUST0067,Rahul,Reddy,rahul.reddy11@yahoo.com,,MALE,PUNE,MH,11/04/2020,
+CUST0068,Lakshmi,Kumar,lakshmi.kumar37@yahoo.com,8846465000,Male,Hyderabad,TS,2021-09-23,Platinum
+CUST0069,Meera,Joshi,meera.joshi1@gmail.com,8409274786,F,bangalore,KA,2022-12-26,bronze
+CUST0070,Shreya,,shreya.mehta74@gmail.com,+91-73344-17350,F,Kolkata,W Bengal,2021-08-15,
+CUST0071,Vivek,Agarwal,vivek.agarwal76@gmail.com,804503629,Female,DELHI,Delhi,26-11-2021,Gold
+CUST0072,Kavya,Pillai,kavya.pillai31@gmail.com,97721-56452,male,Hyd,TS,09-11-2020,
+CUST0073,Dev,Mishra,dev.mishra20@gmail.com,+91-96938-78240,Female,LUCKNOW,UP,16/07/2021,
+CUST0074,Dev,Mehta,dev.mehta79@gmail.com,7329557138,female,Bombay,MH,25/03/2020,
+CUST0075,Kavya,Singh,kavya.singh65yahoo.com,8475054001,F,MUMBAI,Maharashtra,18/06/2022,silver
+CUST0076,Siddharth,Iyer,siddharth.iyer13@gmail.com,+91-72830-89268,male,Pune,MH,06/09/2023,Gold
+CUST0077,Tanvi,Khanna,tanvi.khanna17@gmail.com,981773355,male,bangalore,KA,10-02-2022,Gold
+CUST0078,Amit,Khanna,amit.khanna24@yahoo.com,+91-85573-45129,Female,Calcutta,West Bengal,28/01/2021,Gold
+CUST0079,Kavya,Shah,kavya.shah99@yahoo.com,+91-98429-64443,male,BHOPAL,Madhya Pradesh,05-01-2021,
+CUST0080,Priya,Iyer,priya.iyer97@yahoo.com,+91-96224-87366,female,pune,Maharastra,25/09/2021,
+CUST0081,Dev,Nair,dev.nair18@yahoo.com,,,KOLKATA,west bengal,2022-01-30,silver
+CUST0082,Rohan,Reddy,rohan.reddy29@yahoo.com,8878930355,female,CHENNAI,tamil nadu,29/04/2022,Gold
+CUST0083,Pooja,Das,pooja.das19@gmail.com,+91-97915-59885,Male,Bombay,Maharashtra,2020-10-11,Silver
+CUST0084,Arjun,Joshi,arjun.joshi31gmail.com,+91-74775-43926,FEMALE,Bangaluru,Karnatka,29-06-2023,Silver
+CUST0085,Amit,Pillai,amit.pillai1@yahoo.com,825100366,F,lucknow,uttar pradesh,2023-09-22,Silver
+CUST0086,Siddharth,Chopra,siddharth.chopra46@yahoo.com,8089419573,F,MUMBAI,MH,2023-07-10,Silver
+CUST0087,Pooja,Shah,pooja.shah81@gmail.com,998667410,female,pune,Maharastra,2022-07-26,GOLD
+CUST0088,Preeti,Nair,preeti.nair97@yahoo.com,8087974350,Female,Pink City,Rajsthan,07/04/2020,bronze
+CUST0089,Kunal,Bhatt,kunal.bhatt64@yahoo.com,84561-51216,Female,bhopal,madhya pradesh,30/06/2021,Bronze
+CUST0090,Nikhil,Nair,nikhil.nair40@gmail.com,+91-84084-05265,F,Pune,Maharashtra,28-06-2022,bronze
+CUST0091,Arjun,Banerjee,arjun.banerjee96@yahoo.com,,male,Mumbai,Maharastra,2023-05-29,Platinum
+CUST0092,Aditya,Banerjee,aditya.banerjee78@gmail.com,9436297208,,PUNE,Maharastra,28/06/2022,bronze
+CUST0093,Rahul,Banerjee,rahul.banerjee64@gmail.com,71112-96943,M,chennai,Tamil Nadu,17-06-2021,
+CUST0094,Vikram,Patel,vikram.patel12@yahoo.com,774155342,,Bangalore,Karnatka,29/09/2023,silver
+CUST0095,Shreya,Reddy,shreya.reddy47@gmail.com,97389-00744,F,BHOPAL,MP,11-10-2020,GOLD
+CUST0096,Dev,Shah,dev.shah51@yahoo.com,+91-72823-85977,F,Bangaluru,Karnataka,18-04-2022,Gold
+CUST0097,Dev,Malhotra,dev.malhotra82@gmail.com,,Female,SURAT,GJ,26-10-2022,Bronze
+CUST0098,Meera,Reddy,meera.reddy37@yahoo.com,,,bangalore,karnataka,2023-02-02,Bronze
+CUST0099,Tanvi,Mishra,tanvi.mishra4@gmail.com,9420721027,MALE,Bengaluru,KA,26-06-2021,Silver
+CUST0100,Ishaan,Banerjee,ishaan.banerjee88@gmail.com,90742-32200,female,JAIPUR,RJ,19/11/2020,Bronze
+CUST0101,Rahul,Verma,rahul.verma66@gmail.com,+91-75616-36336,Male,bhopal,madhya pradesh,01/07/2021,bronze
+CUST0102,Shreya,Thakur,shreya.thakur93@gmail.com,,FEMALE,kolkata,west bengal,2022-11-20,Gold
+CUST0103,Siddharth,Pillai,siddharth.pillai7@gmail.com,+91-95054-43885,Male,ahmedabad,gujarat,2023-09-01,bronze
+CUST0104,Karan,Kumar,karan.kumar52@gmail.com,8571688961,,bhopal,madhya pradesh,14/08/2021,Gold
+CUST0105,Karan,Patel,karan.patel97@gmail.com,+91-93958-69480,F,Calcutta,WB,23/03/2020,
+CUST0106,Karan,Thakur,karan.thakur21@gmail.com,+91-96331-07545,,jaipur,RJ,30/04/2023,silver
+CUST0107,Ishaan,Sharma,ishaan.sharma40@yahoo.com,,female,PUNE,Maharashtra,24-02-2020,Silver
+CUST0108,Tanvi,Chopra,tanvi.chopra5@gmail.com,76346-91836,female,Bangaluru,Karnatka,22/06/2022,
+CUST0109,Shreya,Mehta,shreya.mehta42@yahoo.com,,,Bhopal,MP,20/12/2020,silver
+CUST0110,Yash,Chopra,yash.chopra29@yahoo.com,+91-93969-63917,FEMALE,hyderabad,TS,28/02/2021,silver
+CUST0111,Meera,Patel,meera.patel38@gmail.com,84823-42139,female,LUCKNOW,U.P.,2022-06-24,silver
+CUST0112,Preeti,Shah,preeti.shah95@gmail.com,,Female,bhopal,Madhya Pradesh,23/12/2022,GOLD
+CUST0113,Raj,Chopra,raj.chopra53@yahoo.com,93637-46243,F,delhi,Delhi,25/08/2023,Silver
+CUST0114,Preeti,Gupta,preeti.gupta23@gmail.com,9298461504,FEMALE,SURAT,gujarat,2020-03-15,silver
+CUST0115,Kunal,Mehta,kunal.mehta59@yahoo.com,+91-84389-94940,female,Bombay,Maharashtra,2020-10-01,GOLD
+CUST0116,Nisha,Malhotra,nisha.malhotra38@gmail.com,+91-70604-91148,,surat,gujarat,01/08/2023,Gold
+CUST0117,Siddharth,Khanna,siddharth.khanna32@gmail.com,+91-90506-49750,Male,delhi,delhi,30/06/2021,GOLD
+CUST0118,Raj,Das,raj.das52@yahoo.com,83177-23211,M,Mumbai,Maharastra,28/09/2021,Platinum
+CUST0119,Ananya,Singh,ananya.singh54@yahoo.com,+91-96016-28976,Female,ahmedabad,Gujrat,22-09-2023,
+CUST0120,Kavya,Agarwal,kavya.agarwal65@gmail.com,,FEMALE,Delhi NCR,Delhi,2022-12-01,
+CUST0121,Neha,Mehta,neha.mehta8@gmail.com,,female,ahmedabad,Gujrat,14-02-2020,Gold
+CUST0122,Priya,Iyer,priya.iyer5@gmail.com,729643496,MALE,Pune,Maharashtra,06/08/2023,bronze
+CUST0123,Dev,Bhatt,dev.bhatt16@gmail.com,+91-98069-07561,M,Kolkata,west bengal,01/04/2021,bronze
+CUST0124,Nikhil,Bhatt,nikhil.bhatt36@gmail.com,84867-44752,Male,hyderabad,Telegana,2020-03-06,Platinum
+CUST0125,Rohan,Patel,rohan.patel32@yahoo.com,9567466567,male,Lucknow,U.P.,20-03-2021,silver
+CUST0126,Ananya,Mishra,ananya.mishra85@gmail.com,82960-68379,male,PUNE,maharashtra,14-02-2023,bronze
+CUST0127,Nikhil,Chopra,nikhil.chopra90@gmail.com,+91-92525-51683,M,Bombay,Maharastra,06-01-2023,Bronze
+CUST0128,Neha,Malhotra,neha.malhotra68@gmail.com,,F,Mumbai ,Maharastra,2023-08-17,Platinum
+CUST0129,Priya,Kumar,priya.kumar93@yahoo.com,,female,Kolkata,West Bengal,2021-11-12,Gold
+CUST0130,Sunita,Chopra,sunita.chopra42@yahoo.com,,FEMALE,hyderabad,Telegana,05/01/2022,Gold
+CUST0131,Neha,Chopra,neha.chopra6@gmail.com,834398984,MALE,pune,MH,18/06/2021,Bronze
+CUST0132,Vikram,Verma,vikram.verma84@yahoo.com,,FEMALE,HYDERABAD,telangana,27/09/2022,Bronze
+CUST0133,Sunita,Agarwal,sunita.agarwal83@yahoo.com,,Male,Bengaluru,Karnatka,01/06/2020,Bronze
+CUST0134,Vivek,Banerjee,vivek.banerjee65@gmail.com,70392-62289,Male,Hyderabad,telangana,2023-06-16,bronze
+CUST0135,Aarav,Sharma,aarav.sharma90@yahoo.com,,female,JAIPUR,RJ,2020-08-07,silver
+CUST0136,Vivek,Agarwal,vivek.agarwal59@gmail.com,860224433,Male,CHENNAI,Tamil Nadu,2023-11-01,bronze
+CUST0137,Siddharth,Bhatt,siddharth.bhatt90@gmail.com,9734812163,Female,Pink City,Rajasthan,09-11-2021,Silver
+CUST0138,Ananya,Joshi,ananya.joshi10@yahoo.com,8164344392,F,BHOPAL,madhya pradesh,2023-09-09,Platinum
+CUST0139,Tanvi,Singh,tanvi.singh73@gmail.com,82853-84455,male,bhopal,Madhya Pradesh,12-01-2023,Gold
+CUST0140,,Agarwal,kavya.agarwal44@yahoo.com,7997050893,FEMALE,Mumbai,Maharastra,30/10/2021,Platinum
+CUST0141,Pooja,Shah,pooja.shah85@gmail.com,,male,KOLKATA,west bengal,19/05/2021,Bronze
+CUST0142,Sunita,Bhatt,sunita.bhatt40@gmail.com,7393077279,,PUNE,Maharashtra,27-06-2020,bronze
+CUST0143,Sneha,Sharma,sneha.sharma42yahoo.com,,female,New Delhi,Delhi,22-06-2020,Bronze
+CUST0144,Divya,Bhatt,divya.bhatt64@gmail.com,+91-82933-48937,M,Bengaluru,KA,2021-09-05,
+CUST0145,Yash,Thakur,yash.thakur1@yahoo.com,+91-75819-23103,male,HYDERABAD,Telangana,05/11/2021,GOLD
+CUST0146,Yash,Joshi,yash.joshi38@yahoo.com,+91-87104-25977,MALE,Ahemdabad,gujarat,11/05/2021,Gold
+CUST0147,Preeti,Mishra,preeti.mishra57@yahoo.com,89826-52348,M,hyderabad,Telangana,2022-04-17,silver
+CUST0148,Divya,Singh,divya.singh77@gmail.com,731767782,F,bhopal,madhya pradesh,06-05-2022,Gold
+CUST0149,Sneha,Das,sneha.das6@gmail.com,,Male,SURAT,GJ,2021-11-10,silver
+CUST0150,Ananya,Pillai,ananya.pillai29@gmail.com,,Male,BHOPAL,MP,20/04/2023,Gold
+CUST0151,Meera,Iyer,meera.iyer44@gmail.com,+91-84960-60167,FEMALE,Delhi,delhi,02/09/2022,Gold
+CUST0152,Meera,Mehta,meera.mehta87@yahoo.com,8473508573,,Bhopal,Madhya Pradesh,22/11/2022,
+CUST0153,Ananya,,ananya.bhatt51@gmail.com,975083580,female,Surat,gujarat,2023-04-27,silver
+CUST0154,Aditya,Gupta,aditya.gupta26@gmail.com,+91-85710-69113,MALE,Lucknow,uttar pradesh,16-12-2022,bronze
+CUST0155,Tanvi,Patel,tanvi.patel87@yahoo.com,96515-52513,female,PUNE,Maharastra,22/06/2020,Gold
+CUST0156,Nisha,Agarwal,nisha.agarwal77@gmail.com,866843702,male,Bhopal,MP,25-07-2023,Bronze
+CUST0157,Ishaan,Nair,ishaan.nair7@yahoo.com,,,Bengaluru,KA,03-02-2021,
+CUST0158,Lakshmi,Khanna,lakshmi.khanna11@gmail.com,90989-48446,male,AHMEDABAD,Gujrat,07/03/2020,
+CUST0159,Nikhil,Pillai,nikhil.pillai47@gmail.com,,Female,Delhi NCR,Delhi,22-06-2022,Platinum
+CUST0160,Meera,Mehta,meera.mehta16@yahoo.com,737358915,MALE,Ahemdabad,GJ,2023-04-19,Bronze
+CUST0161,Neha,Joshi,neha.joshi77@gmail.com,+91-92861-28610,,Hyderabad,TS,15-08-2021,Gold
+CUST0162,Karan,Iyer,karan.iyer19@yahoo.com,75699-02893,M,Bombay,maharashtra,16-10-2023,bronze
+CUST0163,Siddharth,Malhotra,siddharth.malhotra89@yahoo.com,+91-92145-42998,Female,Delhi,NCT Delhi,01-11-2021,
+CUST0164,Amit,Khanna,amit.khanna28@yahoo.com,929533561,male,bhopal,Madhya Pradesh,23-10-2021,
+CUST0165,Neha,Verma,neha.verma3@gmail.com,742767024,male,Surat,Gujarat,02-01-2020,silver
+CUST0166,Nisha,Kumar,nisha.kumar86@yahoo.com,+91-73539-93484,MALE,New Delhi,DL,17-09-2021,Gold
+CUST0167,Raj,Patel,,73347-44286,MALE,mumbai,Maharastra,04-12-2021,Bronze
+CUST0168,Ishaan,Gupta,ishaan.gupta41@gmail.com,7439921366,Female,HYDERABAD,Telangana,29-09-2020,Silver
+CUST0169,Yash,Banerjee,yash.banerjee53@yahoo.com,79150-66176,MALE,BANGALORE,KA,24/07/2020,bronze
+CUST0170,Rahul,Singh,rahul.singh77@yahoo.com,,M,Hyd,Telangana,2020-02-24,Platinum
+CUST0171,Sunita,Bhatt,sunita.bhatt15@gmail.com,912552657,male,Chennai,tamil nadu,25/01/2020,bronze
+CUST0172,Pooja,Shah,,7313497572,M,Surat,Gujrat,03-05-2020,bronze
+CUST0173,Lakshmi,Bhatt,lakshmi.bhatt40@gmail.com,8191714875,Female,Delhi NCR,delhi,14/11/2020,bronze
+CUST0174,Sunita,Das,sunita.das59@yahoo.com,8866092821,male,mumbai,Maharashtra,09-09-2023,Silver
+CUST0175,Nisha,Chopra,nisha.chopra96@yahoo.com,85971-67064,,PUNE,maharashtra,2020-03-01,silver
+CUST0176,Raj,Mishra,raj.mishra47@gmail.com,,Female,Surat,Gujrat,2020-11-18,Silver
+CUST0177,Priya,Sharma,,856326715,MALE,Hyderabad,Telegana,04-09-2023,GOLD
+CUST0178,Arjun,Gupta,,9156249415,M,Lko,Uttar Pradesh,01/04/2022,GOLD
+CUST0179,Rohan,Shah,rohan.shah73@yahoo.com,+91-78618-76057,female,Ahmedabad,GJ,24-01-2022,Platinum
+CUST0180,Karan,Sharma,karan.sharma82@yahoo.com,+91-93259-18921,M,Kolkata,west bengal,2020-01-03,Platinum
+CUST0181,Kavya,Das,kavya.das12@gmail.com,+91-76114-89444,Female,KOLKATA,West Bengal,25-04-2022,Gold
+CUST0182,Kavya,Singh,kavya.singh8@gmail.com,,MALE,surat,Gujarat,18-06-2021,GOLD
+CUST0183,Rahul,Malhotra,rahul.malhotra99@gmail.com,78706-44102,F,chennai,Tamil Nadu,2022-08-12,
+CUST0184,Meera,Malhotra,meera.malhotra91yahoo.com,+91-76769-52884,F,Chennai,Tamil Nadu,02/11/2021,Silver
+CUST0185,Divya,Nair,divya.nair72@yahoo.com,873685137,female,chennai,Tamil Nadu,2020-10-13,Platinum
+CUST0186,Vivek,Bhatt,vivek.bhatt9@gmail.com,7322067505,F,Pune,MH,2020-07-07,Silver
+CUST0187,Dev,Mehta,dev.mehta4@gmail.com,869650645,male,Bangaluru,Karnatka,2021-01-18,Platinum
+CUST0188,Amit,Nair,amit.nair36@gmail.com,7261903104,,AHMEDABAD,Gujrat,2022-12-12,bronze
+CUST0189,,Agarwal,neha.agarwal42@gmail.com,,M,AHMEDABAD,GJ,2021-03-24,
+CUST0190,Kavya,Agarwal,kavya.agarwal85@gmail.com,74300-73711,MALE,lucknow,uttar pradesh,24/04/2020,Bronze
+CUST0191,Nisha,Das,nisha.das91@yahoo.com,9540741595,FEMALE,Lko,UP,27-02-2023,silver
+CUST0192,Nisha,Chopra,nisha.chopra29@gmail.com,,male,Mumbai,Maharashtra,11/06/2023,Silver
+CUST0193,Aarav,Singh,aarav.singh10@gmail.com,+91-92604-19271,male,lucknow,Uttar Pradesh,25-07-2020,bronze
+CUST0194,Neha,Banerjee,neha.banerjee46@gmail.com,,male,Ahemdabad,gujarat,20-09-2021,Silver
+CUST0195,Raj,Mishra,raj.mishra79@gmail.com,+91-95872-39638,F,Kolkata,west bengal,15/10/2020,Bronze
+CUST0196,Amit,Gupta,amit.gupta2@gmail.com,844203297,Male,BHOPAL,MP,09/06/2021,
+CUST0197,Sunita,Iyer,sunita.iyer70@gmail.com,+91-86265-58140,male,BANGALORE,Karnatka,29/03/2023,Gold
+CUST0198,Neha,Mehta,neha.mehta10@gmail.com,8121534958,Female,Chennai,TN,02/06/2020,
+CUST0199,Raj,Sharma,raj.sharma13@gmail.com,7674755608,M,kolkata,W Bengal,08-02-2023,silver
+CUST0200,Meera,Das,meera.das63@gmail.com,,FEMALE,Delhi,NCT Delhi,2021-08-26,Gold
+CUST0201,Aarav,Joshi,aarav.joshi40@yahoo.com,9033970459,male,bangalore,Karnataka,26/06/2021,bronze
+CUST0202,Pooja,Reddy,pooja.reddy34@gmail.com,888867072,,Ahmedabad,GJ,28/09/2023,Platinum
+CUST0203,Nikhil,Mehta,nikhil.mehta61@gmail.com,94597-89133,male,KOLKATA,W Bengal,2020-03-12,
+CUST0204,Nisha,Reddy,nisha.reddy11@yahoo.com,718329159,F,hyderabad,telangana,08-07-2023,Gold
+CUST0205,Rohan,Bhatt,rohan.bhatt59yahoo.com,,MALE,Pink City,RJ,2023-04-18,Bronze
+CUST0206,Tanvi,Mishra,tanvi.mishra37@yahoo.com,9416708343,FEMALE,Lucknow,Uttar Pradesh,2021-06-24,Bronze
+CUST0207,Arjun,,arjun.bhatt43yahoo.com,716656971,M,Bangaluru,Karnatka,04/07/2021,silver
+CUST0208,Vivek,Chopra,vivek.chopra39@yahoo.com,79790-69637,Female,BHOPAL,Madhya Pradesh,2021-07-05,
+CUST0209,Vikram,Iyer,vikram.iyer66@yahoo.com,8605932109,Male,bhopal,MP,2022-04-06,Platinum
+CUST0210,Kunal,Joshi,kunal.joshi47@yahoo.com,8960432117,Male,mumbai,Maharashtra,2022-10-31,GOLD
+CUST0211,Ishaan,Thakur,ishaan.thakur45@gmail.com,,male,ahmedabad,Gujrat,04-07-2020,Platinum
+CUST0212,Shreya,Das,shreya.das66@gmail.com,815570516,male,Surat,gujarat,19-01-2020,Silver
+CUST0213,Ananya,Kumar,ananya.kumar45@gmail.com,882023633,Female,Lko,UP,2022-12-02,GOLD
+CUST0214,Nikhil,Banerjee,nikhil.banerjee62@gmail.com,9939532043,M,Lko,UP,2021-07-21,Bronze
+CUST0215,Kavya,Das,kavya.das88gmail.com,+91-98369-56156,MALE,Mumbai ,Maharastra,28-08-2021,Silver
+CUST0216,Tanvi,Mishra,tanvi.mishra82@yahoo.com,,,Hyd,telangana,2022-11-04,silver
+CUST0217,Sneha,Chopra,sneha.chopra84@gmail.com,+91-99193-42370,F,bangalore,karnataka,20/09/2021,silver
+CUST0218,Dev,Patel,dev.patel65@gmail.com,90281-68087,male,Ahmedabad,Gujarat,2022-04-26,GOLD
+CUST0219,,Mishra,lakshmi.mishra63@gmail.com,7774626412,male,ahmedabad,GJ,28-04-2020,Bronze
+CUST0220,Ishaan,Gupta,,972080827,Male,Bangaluru,Karnatka,29/12/2022,Platinum
+CUST0221,Aarav,Khanna,aarav.khanna40@gmail.com,+91-99786-66109,M,mumbai,maharashtra,08/12/2020,GOLD
+CUST0222,Lakshmi,Khanna,lakshmi.khanna22@yahoo.com,85429-70785,female,bangalore,Karnatka,12-04-2021,Silver
+CUST0223,Tanvi,Pillai,tanvi.pillai49@yahoo.com,9794049663,Female,Bangalore,KA,09-04-2020,Silver
+CUST0224,,Patel,priya.patel33@gmail.com,,Female,KOLKATA,W Bengal,14-07-2023,silver
+CUST0225,Yash,Thakur,yash.thakur93@yahoo.com,,M,Bhopal,madhya pradesh,16-10-2022,Platinum
+CUST0226,Pooja,Iyer,pooja.iyer27@yahoo.com,935423806,FEMALE,chennai,Tamil Nadu,2020-01-27,Gold
+CUST0227,Aditya,Pillai,aditya.pillai59@yahoo.com,97674-05445,M,Delhi,DL,23/07/2020,GOLD
+CUST0228,Lakshmi,Patel,lakshmi.patel43@gmail.com,75943-99606,Female,Delhi,Delhi,09/07/2020,bronze
+CUST0229,Dev,Kumar,dev.kumar15@gmail.com,97867-74414,FEMALE,KOLKATA,W Bengal,22-11-2020,
+CUST0230,Nisha,Thakur,nisha.thakur62@yahoo.com,99397-51069,Male,Calcutta,West Bengal,04-04-2020,Platinum
+CUST0231,Divya,Verma,divya.verma62@gmail.com,98420-36826,Male,Jaipur,Rajsthan,17-02-2023,Bronze
+CUST0232,Kavya,Chopra,kavya.chopra31@gmail.com,+91-91116-11923,female,ahmedabad,Gujarat,2023-02-01,
+CUST0233,Dev,Mishra,,+91-89201-42971,Male,Ahmedabad,Gujrat,2022-04-06,silver
+CUST0234,Kunal,Pillai,kunal.pillai7@yahoo.com,+91-84639-57634,F,jaipur,Rajsthan,23-06-2023,
+CUST0235,Sneha,Patel,sneha.patel82@yahoo.com,+91-84661-17662,male,Surat,Gujarat,05-08-2020,bronze
+CUST0236,Sneha,Kumar,sneha.kumar28@gmail.com,751859926,Female,lucknow,uttar pradesh,08/08/2020,
+CUST0237,Divya,Mishra,divya.mishra95@gmail.com,,male,jaipur,Rajsthan,16-09-2022,Bronze
+CUST0238,Sunita,Singh,sunita.singh54@yahoo.com,916513647,M,DELHI,DL,14/07/2021,Bronze
+CUST0239,Karan,Iyer,karan.iyer26@gmail.com,93776-14706,male,Lko,UP,09-10-2023,GOLD
+CUST0240,,Patel,,,Male,Poona,Maharastra,2020-08-06,silver
+CUST0241,Aditya,Reddy,aditya.reddy27yahoo.com,+91-72664-28954,,Madras,tamil nadu,2020-07-28,bronze
+CUST0242,Ananya,Pillai,ananya.pillai49@gmail.com,9853978147,M,bhopal,MP,2021-10-02,
+CUST0243,Vivek,Das,vivek.das95@yahoo.com,,Female,SURAT,GJ,2021-08-25,Bronze
+CUST0244,Sunita,Pillai,sunita.pillai72@gmail.com,+91-88404-27040,male,DELHI,Delhi,2020-01-12,Bronze
+CUST0245,Preeti,Verma,preeti.verma71@gmail.com,,,Lucknow,UP,2021-03-26,bronze
+CUST0246,Nikhil,Shah,nikhil.shah85@gmail.com,79500-38526,Male,Kolkata,WB,2023-06-20,GOLD
+CUST0247,Dev,,dev.das49@yahoo.com,+91-71712-71484,,SURAT,gujarat,11/01/2023,
+CUST0248,Ishaan,Mehta,ishaan.mehta13@gmail.com,9207160929,female,chennai,TN,16-01-2020,bronze
+CUST0249,Vivek,Patel,vivek.patel4@gmail.com,99465-34590,Female,HYDERABAD,Telangana,21-04-2020,Platinum
+CUST0250,Preeti,Kumar,preeti.kumar56@gmail.com,970676254,Male,KOLKATA,W Bengal,13-01-2020,Gold
+CUST0251,Pooja,Pillai,pooja.pillai37@yahoo.com,9605180473,female,New Delhi,DL,2023-09-15,bronze
+CUST0252,Neha,Shah,neha.shah2@gmail.com,+91-99089-34292,,chennai,TN,2020-01-11,silver
+CUST0253,Vikram,Agarwal,vikram.agarwal29@yahoo.com,76912-93717,,HYDERABAD,telangana,06/10/2023,Gold
+CUST0254,Meera,Khanna,meera.khanna63@yahoo.com,,female,New Delhi,Delhi,25/04/2021,
+CUST0255,Dev,Verma,dev.verma47@yahoo.com,,MALE,Lko,uttar pradesh,03/10/2021,GOLD
+CUST0256,Karan,Khanna,karan.khanna46@yahoo.com,898791863,male,bhopal,madhya pradesh,15-08-2023,Platinum
+CUST0257,Arjun,Banerjee,arjun.banerjee75@gmail.com,9178314265,,Delhi,Delhi,16/03/2020,Bronze
+CUST0258,Pooja,Bhatt,,,male,Hyd,telangana,04-05-2021,Bronze
+CUST0259,Dev,Reddy,dev.reddy6@gmail.com,+91-90766-31329,,Bangaluru,karnataka,26/01/2022,bronze
+CUST0260,Ishaan,Malhotra,ishaan.malhotra82@yahoo.com,,MALE,Mumbai,MH,19/01/2023,Gold
+CUST0261,Kavya,Kumar,,+91-85156-85383,,kolkata,W Bengal,11-10-2020,silver
+CUST0262,Vikram,Singh,vikram.singh85@gmail.com,9585657398,male,Bengaluru,KA,13-09-2022,bronze
+CUST0263,Aarav,Das,aarav.das6@yahoo.com,,Male,mumbai,maharashtra,03-01-2021,silver
+CUST0264,Rohan,Joshi,rohan.joshi53@yahoo.com,77325-78761,male,AHMEDABAD,Gujrat,07-01-2021,GOLD
+CUST0265,Preeti,Malhotra,preeti.malhotra17@gmail.com,862440540,Female,Lucknow,uttar pradesh,2022-10-29,
+CUST0266,Kunal,Thakur,kunal.thakur85@gmail.com,740024785,F,Lucknow,Uttar Pradesh,2023-10-21,bronze
+CUST0267,Ananya,Chopra,ananya.chopra33@gmail.com,88274-63042,M,Calcutta,West Bengal,2021-08-03,Silver
+CUST0268,Raj,Sharma,raj.sharma89@yahoo.com,86107-41069,,Lucknow,Uttar Pradesh,22/05/2022,GOLD
+CUST0269,Yash,Kumar,yash.kumar72@gmail.com,,MALE,surat,gujarat,03-06-2021,Bronze
+CUST0270,Shreya,Khanna,shreya.khanna28@gmail.com,7694904767,male,delhi,NCT Delhi,11/06/2023,Silver
+CUST0271,Neha,Gupta,,7378561387,,BANGALORE,Karnatka,26/02/2022,Silver
+CUST0272,Aditya,Reddy,aditya.reddy85@yahoo.com,70460-00830,male,surat,Gujrat,12-05-2023,Silver
+CUST0273,,Das,pooja.das52@gmail.com,+91-73729-87009,Female,Surat,gujarat,26-11-2022,silver
+CUST0274,Sunita,Shah,sunita.shah78@yahoo.com,81875-92160,Female,Lko,UP,10-01-2020,Gold
+CUST0275,Kavya,Nair,kavya.nair33@yahoo.com,,FEMALE,Pune,MH,13-05-2021,
+CUST0276,Kunal,Mishra,kunal.mishra49@yahoo.com,8107327477,F,MUMBAI,Maharashtra,15-04-2021,Silver
+CUST0277,Raj,Kumar,raj.kumar10@gmail.com,+91-87133-94023,female,Hyd,Telangana,23/03/2021,Platinum
+CUST0278,Ananya,Das,ananya.das80@gmail.com,78708-75721,Male,chennai,tamil nadu,09-06-2020,Silver
+CUST0279,Shreya,Chopra,shreya.chopra63@gmail.com,+91-94675-41927,Male,PUNE,Maharastra,25-03-2022,bronze
+CUST0280,,Shah,ishaan.shah59@yahoo.com,86910-01287,Female,Mumbai ,MH,18/01/2020,GOLD
+CUST0281,Yash,Kumar,yash.kumar61@yahoo.com,+91-80185-04919,F,Bangaluru,KA,18/05/2022,bronze
+CUST0282,Arjun,Malhotra,arjun.malhotra13@yahoo.com,94734-40423,male,Bangaluru,karnataka,19/02/2022,Silver
+CUST0283,Nisha,Iyer,nisha.iyer33@gmail.com,+91-90900-17854,FEMALE,ahmedabad,GJ,30-11-2020,Gold
+CUST0284,Dev,Verma,dev.verma33@gmail.com,,,Madras,TN,2023-10-23,silver
+CUST0285,Pooja,Verma,pooja.verma49@yahoo.com,8919550221,MALE,SURAT,Gujrat,09-12-2020,bronze
+CUST0286,Shreya,Gupta,shreya.gupta41@yahoo.com,+91-79801-88582,F,delhi,DL,20-03-2022,
+CUST0287,Lakshmi,Reddy,lakshmi.reddy96@yahoo.com,+91-80077-16123,FEMALE,Bangalore,karnataka,29-07-2020,Silver
+CUST0288,Aarav,Bhatt,aarav.bhatt20@gmail.com,,male,Jaipur,Rajasthan,2021-04-14,Bronze
+CUST0289,Aarav,Mehta,aarav.mehta70@yahoo.com,904506903,MALE,surat,GJ,09-01-2023,silver
+CUST0290,Preeti,Agarwal,,+91-88977-75581,F,ahmedabad,Gujarat,07/12/2022,
+CUST0291,Nikhil,Sharma,nikhil.sharma99@gmail.com,8286817379,,bhopal,madhya pradesh,15/01/2020,bronze
+CUST0292,Ananya,Reddy,ananya.reddy29@gmail.com,867384868,M,BHOPAL,MP,09-06-2023,silver
+CUST0293,Lakshmi,,lakshmi.joshi82@gmail.com,8243802345,Male,delhi,delhi,04-10-2022,Silver
+CUST0294,Nisha,Patel,nisha.patel30gmail.com,8882985094,F,Madras,tamil nadu,10/05/2022,Silver
+CUST0295,Rahul,Gupta,rahul.gupta70@gmail.com,8685438702,female,Bangalore,KA,20/02/2022,
+CUST0296,Ananya,Mehta,ananya.mehta61@gmail.com,92382-75479,,HYDERABAD,Telangana,20-11-2020,Gold
+CUST0297,,Chopra,arjun.chopra86@gmail.com,8548020689,Female,surat,gujarat,26/10/2021,Platinum
+CUST0298,Aarav,Mehta,aarav.mehta32@gmail.com,8595145112,male,LUCKNOW,uttar pradesh,04-07-2023,Gold
+CUST0299,Karan,Chopra,karan.chopra3@yahoo.com,88842-83304,M,Hyd,TS,21-03-2020,
+CUST0300,Vikram,Mishra,vikram.mishra36@yahoo.com,839019878,M,Bangaluru,KA,24/11/2020,GOLD

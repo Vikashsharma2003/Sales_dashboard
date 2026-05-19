@@ -1,0 +1,45 @@
+product_id,product_name,category,mrp,cost_price,unit,brand,is_active
+PRD001,Basmati Rice 5kg,Groceries,431,246,litre,HUL,Yes
+PRD002,Toor Dal 1kg,Groceries,128,89,box,Nestle,No
+PRD003,Refined Oil 1L,Groceries,157,87,piece,HUL,Yes
+PRD004,Atta 10kg,Groceries,444,297,box,HUL,No
+PRD005,Sugar 1kg,Groceries,48,28,box,Patanjali,Yes
+PRD006,Salt 1kg,Groceries,20,13,litre,Patanjali,Yes
+PRD007,Turmeric Powder 100g,Groceries,51,37,litre,Nestle,Yes
+PRD008,Red Chilli Powder 100g,Groceries,67,38,litre,Generic,Yes
+PRD009,Mustard Oil 1L,Groceries,152,105,box,Nestle,Yes
+PRD010,Tea Powder 250g,Groceries,125,82,box,Britannia,No
+PRD011,Coca Cola 2L,Beverages,96,66,piece,HUL,Yes
+PRD012,Mineral Water 1L,Beverages,21,15,piece,Dabur,Yes
+PRD013,Fruit Juice 1L,Beverages,124,83,litre,ITC,Yes
+PRD014,Energy Drink 250ml,Beverages,121,71,litre,Nestle,No
+PRD015,Lassi 200ml,Beverages,35,22,kg,ITC,Yes
+PRD016,Cold Coffee 250ml,Beverages,77,46,box,HUL,Yes
+PRD017,Potato Chips 100g,Snacks,20,11,piece,Britannia,Yes
+PRD018,Biscuits 200g,Snacks,43,24,box,Britannia,Yes
+PRD019,Namkeen 200g,Snacks,65,42,pack,ITC,Yes
+PRD020,Chocolate Bar 50g,Snacks,44,26,box,Local,Yes
+PRD021,Popcorn 100g,Snacks,43,31,pack,Britannia,Yes
+PRD022,Wafers 150g,Snacks,29,18,piece,Amul,Yes
+PRD023,Shampoo 200ml,Personal Care,199,134,pack,Generic,Yes
+PRD024,Soap Bar 100g,Personal Care,47,29,pack,Local,Yes
+PRD025,Toothpaste 100g,Personal Care,110,79,piece,Nestle,No
+PRD026,Face Wash 100ml,Personal Care,184,129,litre,Nestle,Yes
+PRD027,Body Lotion 200ml,Personal Care,275,159,piece,Patanjali,No
+PRD028,Deodorant 150ml,Personal Care,202,131,piece,Patanjali,No
+PRD029,Detergent Powder 1kg,Household,218,128,litre,ITC,No
+PRD030,Dishwash Bar 200g,Household,25,16,pack,Amul,Yes
+PRD031,Floor Cleaner 1L,Household,143,103,litre,HUL,Yes
+PRD032,Toilet Cleaner 500ml,Household,100,72,piece,Nestle,Yes
+PRD033,Air Freshener 300ml,Household,202,113,box,ITC,Yes
+PRD034,Garbage Bags Pack,Household,125,92,kg,Patanjali,No
+PRD035,Milk 1L,Dairy,67,42,kg,Local,Yes
+PRD036,Curd 500g,Dairy,54,34,litre,Godrej,No
+PRD037,Paneer 200g,Dairy,94,53,kg,Nestle,Yes
+PRD038,Butter 100g,Dairy,52,34,kg,Generic,Yes
+PRD039,Cheese Slice 200g,Dairy,120,67,piece,HUL,Yes
+PRD040,Ghee 500ml,Dairy,284,205,piece,Local,Yes
+PRD041,Bread Loaf,Bakery,43,29,kg,Local,Yes
+PRD042,Cake Slice,Bakery,68,50,box,Generic,Yes
+PRD043,Cookies Pack,Bakery,62,43,pack,HUL,Yes
+PRD044,Rusk 200g,Bakery,43,29,litre,Dabur,Yes

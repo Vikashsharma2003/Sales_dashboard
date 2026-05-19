@@ -1,0 +1,1051 @@
+order_id,customer_id,order_date,payment_method,order_status,discount_pct,store_location
+ORD00422,CUST0251,28.01.2022,Cash,Delivered,0,Surat
+ORD00641,CUST0065,01.06.2023,wallet,cancelled,0,Chennai
+ORD00992,CUST0152,04.02.2023,credit card,delivered,20,Chennai
+ORD00039,CUST0117,04.03.2023,Wallet,Delivered,5,Pune
+ORD00797,CUST0263,20.11.2023,upi,Delivered,0,Jaipur
+ORD00795,CUST0062,2023-04-01,CASH,Cancelled,10,Bhopal
+ORD00469,CUST0158,2022-01-07,CASH,Delivered,0,Jaipur
+ORD00142,CUST0022,20.02.2023,Cash,DELIVERED,0,Jaipur
+ORD00594,CUST0154,2023-04-27,upi,delivered,10,Surat
+ORD00928,CUST0137,2023-07-20,Credit Card,Delivered,5,Chennai
+ORD00485,CUST0144,2022-08-14,wallet,delivered,5,Surat
+ORD00146,CUST0113,06.03.2022,credit card,Returned,5,Lucknow
+ORD00114,CUST0006,"April 26, 2023",Netbanking,delivered,15,Chennai
+ORD00728,CUST0035,2022-02-16,Debit Card,Delivered,0,Surat
+ORD00681,CUST0181,29-09-2022,Netbanking,Delivered,0,Jaipur
+ORD00247,CUST0240,"October 02, 2022",Wallet,Pending,-5,Pune
+ORD00774,CUST0041,"March 21, 2022",Wallet,DELIVERED,5,Jaipur
+ORD00660,CUST0184,09-09-2022,Cash,Returned,0,Mumbai
+ORD00196,CUST0244,22.06.2023,Credit Card,cancelled,10,Chennai
+ORD00834,CUST0099,09-10-2022,credit card,cancelled,5,Chennai
+ORD00619,CUST0075,2023-10-18,upi,cancelled,5,Mumbai
+ORD00790,CUST0108,"March 17, 2023",Net Banking,cancelled,20,Bangalore
+ORD00624,CUST0275,"December 07, 2023",credit card,Returned,,Hyderabad
+ORD00513,CUST0069,09-09-2023,Cash,cancelled,20,Kolkata
+ORD00851,CUST0034,2022-07-17,Debit Card,Cancelled,,Hyderabad
+ORD00549,CUST0119,2022-08-16,credit card,delivered,10,Chennai
+ORD00848,CUST0091,2022-05-15,credit card,Delivered,0,Pune
+ORD00308,CUST0027,08.12.2022,Credit Card,Pending,0,Lucknow
+ORD00533,CUST0061,25-10-2022,CASH,Cancelled,5,Lucknow
+ORD00224,CUST0034,"January 08, 2023",upi,Delivered,5,Hyderabad
+ORD00389,CUST0184,15/11/2022,Netbanking,Delivered,25,Chennai
+ORD00166,CUST0018,2023-03-12,credit card,delivered,20,Jaipur
+ORD00683,CUST0217,18/07/2022,Cash,Pending,5,Ahmedabad
+ORD00111,CUST0018,2022-02-08,CASH,Returned,25,Delhi
+ORD00686,CUST0208,06-02-2023,Credit Card,Delivered,10,Hyderabad
+ORD00773,CUST0261,"August 19, 2023",Cash,Pending,10,Kolkata
+ORD00629,CUST0179,2022-08-03,wallet,cancelled,5,Chennai
+ORD00281,CUST0135,20.09.2023,Netbanking,Returned,5,Ahmedabad
+ORD00488,CUST0046,"December 15, 2022",Cash,Delivered,25,Kolkata
+ORD00384,CUST0029,27.07.2023,Net Banking,Pending,0,Hyderabad
+ORD00743,CUST0067,05.10.2022,Credit Card,Delivered,0,Kolkata
+ORD00040,CUST0230,"July 10, 2023",Cash,Delivered,0,Bangalore
+ORD00697,CUST0279,06-04-2023,Debit Card,Cancelled,20,Kolkata
+ORD00372,CUST0108,2022-01-08,wallet,Pending,5,Ahmedabad
+ORD00101,CUST0001,31-05-2022,CASH,DELIVERED,0,Hyderabad
+ORD00028,CUST0103,2023-12-03,Debit Card,Delivered,10,Lucknow
+ORD00656,CUST0250,20-03-2023,credit card,cancelled,15,Lucknow
+ORD00388,CUST0228,2022-07-10,Debit Card,Delivered,5,Jaipur
+ORD00559,CUST0012,20-06-2022,Net Banking,Delivered,25,Bhopal
+ORD00424,CUST0201,10.06.2022,Debit Card,DELIVERED,-5,Bangalore
+ORD00313,CUST0174,09.09.2023,Debit Card,Cancelled,15,Surat
+ORD00983,CUST0208,08-04-2023,CASH,cancelled,5,Chennai
+ORD00399,CUST0108,09-11-2022,Cash,Returned,15,Lucknow
+ORD00002,CUST0123,25.11.2022,wallet,DELIVERED,0,Jaipur
+ORD00160,CUST0075,10.08.2022,CASH,Delivered,25,Hyderabad
+ORD00723,CUST0235,"October 11, 2022",Debit Card,Returned,0,Pune
+ORD00596,CUST0284,30-12-2023,Wallet,DELIVERED,5,Bangalore
+ORD00480,CUST0165,18.01.2022,UPI,Returned,10,Bhopal
+ORD00135,CUST0169,05.02.2023,UPI,DELIVERED,25,Bhopal
+ORD00269,CUST0115,22/01/2022,Netbanking,cancelled,0,Hyderabad
+ORD00049,CUST0251,06.12.2023,CASH,Delivered,,Kolkata
+ORD00410,CUST0136,23-10-2023,upi,Delivered,0,Surat
+ORD00543,CUST0065,09/06/2022,Netbanking,Delivered,10,Kolkata
+ORD00925,CUST0269,22.08.2022,upi,Delivered,5,Jaipur
+ORD00090,CUST0092,"December 23, 2023",Wallet,delivered,25,Hyderabad
+ORD00229,CUST0050,20/03/2022,CASH,delivered,20,Jaipur
+ORD00461,CUST0192,2023-01-29,Net Banking,cancelled,-5,Kolkata
+ORD00949,CUST0134,25/07/2023,Net Banking,Delivered,,Bhopal
+ORD00980,CUST0068,"December 02, 2022",upi,Delivered,10,Bhopal
+ORD00019,CUST0296,26-01-2023,UPI,Returned,0,Delhi
+ORD00510,CUST0279,25/06/2022,wallet,Delivered,10,Jaipur
+ORD00113,CUST0242,"October 08, 2023",wallet,DELIVERED,150,Jaipur
+ORD00463,CUST0189,15.12.2023,wallet,Pending,0,Mumbai
+ORD00563,CUST0138,2023-07-20,Debit Card,Delivered,0,Surat
+ORD00593,CUST0040,13/01/2022,credit card,Delivered,25,Jaipur
+ORD00696,CUST0221,04.01.2023,Credit Card,Delivered,5,Surat
+ORD00862,CUST0018,2022-11-27,wallet,Returned,0,Pune
+ORD00200,CUST0214,2022-07-03,wallet,Delivered,15,Delhi
+ORD00085,CUST0108,25-11-2022,Cash,Cancelled,5,Surat
+ORD00835,CUST0288,09/07/2023,Credit Card,cancelled,5,Bangalore
+ORD00291,CUST0196,05/04/2022,Net Banking,Delivered,10,Delhi
+ORD00825,CUST0121,"November 26, 2022",CASH,DELIVERED,15,Delhi
+ORD00765,CUST0030,"August 17, 2023",Net Banking,cancelled,-5,Chennai
+ORD00910,CUST0237,28/05/2023,Wallet,Returned,0,Delhi
+ORD00318,CUST0288,18-08-2022,Net Banking,Returned,15,Jaipur
+ORD00395,CUST9366,30-07-2022,Debit Card,Delivered,-5,Bangalore
+ORD00023,CUST0043,03.05.2023,UPI,DELIVERED,25,Kolkata
+ORD00850,CUST0087,24.08.2023,Netbanking,Delivered,10,Mumbai
+ORD00617,CUST0204,2023-03-20,credit card,Returned,5,Ahmedabad
+ORD00393,CUST0215,2022-12-03,Credit Card,delivered,0,Surat
+ORD00898,CUST0156,2022-10-26,CASH,delivered,10,Lucknow
+ORD00075,CUST0170,13/12/2022,CASH,Delivered,15,Jaipur
+ORD00553,CUST0007,01-12-2023,Debit Card,Returned,20,Lucknow
+ORD00097,CUST0221,22/03/2023,upi,DELIVERED,25,Bhopal
+ORD00516,CUST0099,"January 17, 2023",wallet,DELIVERED,25,Pune
+ORD00975,CUST0215,09.03.2022,CASH,delivered,0,Bangalore
+ORD00972,CUST0016,25-05-2023,Net Banking,Pending,5,Pune
+ORD00635,CUST0115,11/04/2023,credit card,Delivered,20,Pune
+ORD00274,CUST0015,25.10.2022,Cash,cancelled,5,Surat
+ORD00494,CUST0108,19.08.2022,Debit Card,delivered,0,Bangalore
+ORD00328,CUST0284,08-11-2022,upi,Delivered,10,Bangalore
+ORD00471,CUST0250,"July 06, 2022",Credit Card,delivered,20,Mumbai
+ORD00348,CUST0174,08-07-2023,wallet,delivered,0,Bhopal
+ORD00284,CUST0288,12/05/2023,CASH,Delivered,15,Chennai
+ORD00710,CUST0046,"May 24, 2022",Net Banking,Delivered,25,Jaipur
+ORD00911,CUST0004,03.02.2022,Netbanking,delivered,10,Chennai
+ORD00033,CUST0185,21/04/2022,Net Banking,Pending,0,Bhopal
+ORD00300,CUST0237,2022-07-03,credit card,Delivered,0,Pune
+ORD00722,CUST0156,04-02-2022,CASH,Delivered,25,Bhopal
+ORD00961,CUST0179,12/03/2022,upi,Delivered,10,Chennai
+ORD01000,CUST0250,2022-10-26,Netbanking,Delivered,5,Lucknow
+ORD00064,CUST0296,2023-09-10,upi,Delivered,5,Bangalore
+ORD00817,CUST0012,2022-11-06,CASH,Delivered,5,Ahmedabad
+ORD00420,CUST0196,29.07.2022,Credit Card,DELIVERED,10,Lucknow
+ORD00678,CUST0113,"January 08, 2023",CASH,cancelled,10,Delhi
+ORD00470,CUST0214,02/11/2023,credit card,Delivered,5,Hyderabad
+ORD00014,CUST0009,15-06-2023,Net Banking,Delivered,0,Pune
+ORD00631,CUST0219,20.06.2023,Credit Card,Delivered,10,Lucknow
+ORD00481,CUST0042,23.12.2022,CASH,Delivered,10,Bangalore
+ORD00789,CUST0219,20/10/2022,credit card,Returned,,Bhopal
+ORD00638,CUST0014,07-06-2022,Netbanking,cancelled,10,Kolkata
+ORD00171,CUST0278,"August 13, 2023",wallet,Delivered,5,Mumbai
+ORD00649,CUST0083,"July 04, 2022",UPI,Delivered,5,Delhi
+ORD00890,CUST0125,12.12.2023,upi,cancelled,0,Chennai
+ORD00390,CUST0189,2022-01-09,Wallet,Delivered,20,Jaipur
+ORD00766,CUST0142,23/09/2022,Debit Card,Delivered,15,Mumbai
+ORD00089,CUST0067,2022-01-30,wallet,Delivered,15,Kolkata
+ORD00511,CUST0151,"November 06, 2023",CASH,Delivered,20,Pune
+ORD00968,CUST0044,29-10-2023,CASH,Delivered,10,Mumbai
+ORD00045,CUST0137,"September 13, 2023",Wallet,Delivered,25,Pune
+ORD00874,CUST0014,16-08-2022,Debit Card,Delivered,25,Mumbai
+ORD00713,CUST0290,"May 09, 2023",UPI,Delivered,10,Mumbai
+ORD00243,CUST0048,16-08-2023,Wallet,Returned,0,Ahmedabad
+ORD00918,CUST0289,"January 07, 2023",Net Banking,Delivered,5,Ahmedabad
+ORD00331,CUST0065,2023-06-17,Net Banking,Delivered,20,Pune
+ORD00702,CUST0028,16-05-2023,UPI,Pending,150,Bangalore
+ORD00466,CUST0197,12/02/2023,Credit Card,DELIVERED,25,Kolkata
+ORD00319,CUST0137,2022-06-04,Wallet,Delivered,20,Ahmedabad
+ORD00414,CUST0297,03/11/2023,CASH,DELIVERED,0,Bhopal
+ORD00006,CUST0037,2022-01-14,wallet,delivered,5,Pune
+ORD00677,CUST0271,11/06/2023,Net Banking,delivered,10,Bangalore
+ORD00731,CUST0016,28.06.2022,Credit Card,delivered,10,Jaipur
+ORD00497,CUST0028,"December 28, 2023",CASH,Delivered,5,Chennai
+ORD00411,CUST0041,2022-10-11,Credit Card,Delivered,5,Pune
+ORD00575,CUST0055,10/07/2023,Credit Card,Delivered,10,Ahmedabad
+ORD00689,CUST0073,2022-01-14,credit card,Returned,15,Delhi
+ORD00292,CUST0011,02-08-2022,credit card,Pending,0,Bangalore
+ORD00860,CUST0047,10.06.2023,Net Banking,Delivered,5,Jaipur
+ORD00265,CUST0095,2023-10-08,wallet,Delivered,15,Pune
+ORD00857,CUST0091,2022-10-30,CASH,Cancelled,5,Pune
+ORD00869,CUST0089,05/11/2022,Credit Card,Delivered,5,Bhopal
+ORD00778,CUST0248,12/09/2023,CASH,Pending,5,Bangalore
+ORD00263,CUST0252,2023-04-28,upi,Pending,10,Jaipur
+ORD00604,CUST0050,"December 06, 2022",Netbanking,Delivered,10,Lucknow
+ORD00136,CUST0036,08.07.2023,UPI,Pending,5,Pune
+ORD00418,CUST0174,"August 19, 2022",credit card,Pending,10,Lucknow
+ORD00352,CUST0165,2023-02-16,UPI,delivered,25,Mumbai
+ORD00315,CUST0067,27.06.2022,Debit Card,cancelled,5,Ahmedabad
+ORD00468,CUST0046,22-04-2022,upi,Delivered,25,Kolkata
+ORD00301,CUST0233,18-11-2023,Wallet,Cancelled,15,Bangalore
+ORD00955,CUST0098,16.03.2022,Net Banking,delivered,10,Bangalore
+ORD00880,CUST0060,11.09.2023,Netbanking,Returned,15,Pune
+ORD00428,CUST0234,22/12/2022,credit card,cancelled,5,Lucknow
+ORD00360,CUST0257,28/07/2022,upi,DELIVERED,0,Kolkata
+ORD00392,CUST0244,"December 13, 2023",Wallet,Returned,15,Chennai
+ORD00086,CUST9637,2022-10-07,Debit Card,Cancelled,0,Delhi
+ORD00001,CUST0233,2022-01-01,credit card,Delivered,20,Lucknow
+ORD00358,CUST0248,2022-01-30,wallet,Delivered,10,Surat
+ORD00634,CUST0279,2022-04-13,Netbanking,cancelled,15,Hyderabad
+ORD00694,CUST0266,11-11-2023,CASH,Delivered,25,Mumbai
+ORD00539,CUST0225,2022-06-15,upi,Pending,0,Hyderabad
+ORD00054,CUST0238,2023-10-24,Credit Card,DELIVERED,15,Bhopal
+ORD00812,CUST0170,2023-02-28,Netbanking,Delivered,,Delhi
+ORD00173,CUST0188,29/06/2022,Credit Card,DELIVERED,20,Jaipur
+ORD00413,CUST0279,25-09-2022,Net Banking,Cancelled,0,Kolkata
+ORD00122,CUST0273,28.08.2022,wallet,Pending,10,Kolkata
+ORD00244,CUST0219,"August 03, 2022",Credit Card,Cancelled,10,Jaipur
+ORD00779,CUST0276,08/09/2022,wallet,cancelled,10,Pune
+ORD00289,CUST0003,04.12.2022,wallet,cancelled,0,Bhopal
+ORD00531,CUST0269,19/08/2022,Credit Card,Returned,0,Kolkata
+ORD00965,CUST0251,12/09/2023,upi,Pending,10,Jaipur
+ORD00473,CUST0151,2022-03-29,Credit Card,Cancelled,10,Ahmedabad
+ORD00291,CUST0196,05/04/2022,Net Banking,Delivered,10,Delhi
+ORD00544,CUST0005,21.03.2023,Net Banking,Cancelled,15,Lucknow
+ORD00481,CUST0042,23.12.2022,CASH,Delivered,10,Bangalore
+ORD00281,CUST0135,20.09.2023,Netbanking,Returned,5,Ahmedabad
+ORD00664,CUST0253,2023-05-26,Net Banking,Pending,0,Pune
+ORD00445,CUST0275,"August 06, 2023",Net Banking,Delivered,0,Kolkata
+ORD00995,CUST0201,13/06/2022,credit card,cancelled,10,Hyderabad
+ORD00700,CUST0076,"April 23, 2023",Netbanking,Cancelled,0,Ahmedabad
+ORD00034,CUST0051,2022-11-20,Wallet,DELIVERED,15,Ahmedabad
+ORD00907,CUST0047,"January 15, 2023",Wallet,Pending,0,Bangalore
+ORD00383,CUST0034,11-05-2022,CASH,Delivered,0,Delhi
+ORD00083,CUST0019,2023-04-16,Netbanking,Delivered,,Delhi
+ORD00745,CUST0195,2023-11-30,Netbanking,delivered,0,Bangalore
+ORD00160,CUST0075,10.08.2022,CASH,Delivered,25,Hyderabad
+ORD00178,CUST0056,18.06.2022,Credit Card,Delivered,5,Surat
+ORD00453,CUST0034,19/05/2023,Cash,Delivered,0,Bangalore
+ORD00164,CUST0243,19/04/2023,UPI,Pending,5,Hyderabad
+ORD00307,CUST0228,"May 12, 2023",UPI,delivered,15,Kolkata
+ORD00767,CUST0120,28.04.2022,Debit Card,DELIVERED,,Hyderabad
+ORD00386,CUST0014,10/04/2023,upi,cancelled,,Delhi
+ORD00340,CUST0214,16.06.2022,Netbanking,Delivered,0,Bhopal
+ORD00692,CUST0076,07.04.2022,Net Banking,Returned,0,Jaipur
+ORD00618,CUST0109,21.12.2023,Credit Card,Cancelled,15,Ahmedabad
+ORD00937,CUST0110,"November 11, 2022",Net Banking,Returned,20,Lucknow
+ORD00022,CUST0295,01-06-2023,Cash,Pending,0,Pune
+ORD00508,CUST0093,2022-01-06,CASH,Returned,20,Surat
+ORD00005,CUST0199,"November 05, 2023",Netbanking,cancelled,15,Lucknow
+ORD00192,CUST0045,09-06-2023,Cash,delivered,10,Mumbai
+ORD00094,CUST0180,06-05-2023,Debit Card,Cancelled,15,Delhi
+ORD00345,CUST0281,24.12.2022,UPI,Pending,0,Pune
+ORD00598,CUST0287,12-09-2023,CASH,delivered,0,Kolkata
+ORD00522,CUST0177,26.11.2023,Netbanking,cancelled,20,Mumbai
+ORD00116,CUST0087,"August 10, 2023",wallet,Cancelled,0,Bangalore
+ORD00905,CUST0211,13/07/2022,Wallet,Delivered,0,Delhi
+ORD00639,CUST0124,24.07.2023,Cash,cancelled,10,Lucknow
+ORD00607,CUST0268,16-12-2022,Debit Card,Returned,15,Kolkata
+ORD00733,CUST0271,2022-07-16,Wallet,Delivered,0,Mumbai
+ORD00602,CUST0023,01-08-2023,UPI,Delivered,15,Pune
+ORD00974,CUST0024,07/07/2023,Wallet,DELIVERED,-5,Delhi
+ORD00343,CUST0079,01-05-2022,Net Banking,Returned,-5,Bangalore
+ORD00562,CUST0005,10-06-2023,Netbanking,DELIVERED,15,Bhopal
+ORD00252,CUST0282,2022-06-30,CASH,Delivered,0,Lucknow
+ORD00201,CUST0186,19-08-2023,Wallet,Pending,15,Bhopal
+ORD00015,CUST0012,"December 08, 2023",Netbanking,DELIVERED,5,Delhi
+ORD00419,CUST0017,"May 23, 2022",upi,cancelled,0,Kolkata
+ORD00078,CUST0174,"January 20, 2023",Debit Card,cancelled,20,Chennai
+ORD00434,CUST0070,2022-12-01,CASH,delivered,15,Bhopal
+ORD00876,CUST0174,29-01-2023,credit card,Delivered,0,Ahmedabad
+ORD00336,CUST0294,20/11/2023,credit card,DELIVERED,0,Hyderabad
+ORD00626,CUST0163,15.01.2022,CASH,Delivered,0,Surat
+ORD00852,CUST0259,24-02-2023,wallet,Delivered,0,Pune
+ORD00172,CUST0264,22.11.2023,UPI,Delivered,10,Pune
+ORD00332,CUST0082,24-01-2022,Netbanking,cancelled,0,Bhopal
+ORD00830,CUST0105,21-09-2023,Netbanking,cancelled,10,Pune
+ORD00464,CUST0186,09-10-2023,wallet,Delivered,0,Bangalore
+ORD00280,CUST0060,17-11-2022,Debit Card,delivered,0,Chennai
+ORD00839,CUST0262,27-03-2023,wallet,delivered,10,Hyderabad
+ORD00426,CUST0104,2023-05-30,Net Banking,Delivered,15,Kolkata
+ORD00202,CUST0062,18-01-2023,Wallet,Delivered,150,Ahmedabad
+ORD00650,CUST9534,"December 22, 2022",Wallet,cancelled,15,Delhi
+ORD00112,CUST0073,2023-06-24,CASH,DELIVERED,5,Hyderabad
+ORD00168,CUST0009,"May 07, 2023",Debit Card,delivered,150,Ahmedabad
+ORD00454,CUST0282,29.07.2022,Netbanking,Delivered,5,Bhopal
+ORD00977,CUST0050,05/05/2023,Wallet,Delivered,15,Bangalore
+ORD00161,CUST0184,2022-10-04,upi,Delivered,-5,Delhi
+ORD00484,CUST0088,2023-11-07,Credit Card,Pending,0,Kolkata
+ORD00763,CUST0007,08-05-2022,Wallet,Returned,5,Mumbai
+ORD00588,CUST0113,2023-12-21,Cash,Returned,0,Pune
+ORD00541,CUST0083,2023-11-14,CASH,Cancelled,5,Surat
+ORD00782,CUST0241,2022-04-14,UPI,Pending,0,Bangalore
+ORD00931,CUST0278,27-08-2023,Wallet,delivered,5,Delhi
+ORD00730,CUST0033,2022-03-05,Net Banking,Delivered,150,Lucknow
+ORD00367,CUST0089,"February 28, 2023",CASH,Pending,20,Surat
+ORD00984,CUST0264,12-12-2022,Debit Card,Cancelled,10,Jaipur
+ORD00008,CUST0040,10/08/2022,Credit Card,Delivered,20,Jaipur
+ORD00941,CUST9962,12.11.2022,Wallet,Pending,10,Kolkata
+ORD00577,CUST0279,"May 07, 2022",UPI,Delivered,0,Kolkata
+ORD00514,CUST0039,18/07/2023,Net Banking,Pending,5,Chennai
+ORD00981,CUST0198,2023-10-10,Cash,Delivered,-5,Bangalore
+ORD00762,CUST0173,08-08-2023,UPI,cancelled,10,Surat
+ORD00176,CUST0241,28-12-2023,wallet,DELIVERED,20,Surat
+ORD00282,CUST0078,24/07/2023,UPI,Delivered,15,Ahmedabad
+ORD00964,CUST0064,"April 06, 2022",Netbanking,cancelled,0,Delhi
+ORD00715,CUST0155,"October 06, 2023",UPI,delivered,5,Mumbai
+ORD00853,CUST0239,2023-08-05,Wallet,delivered,0,Bhopal
+ORD00585,CUST0094,30.01.2023,upi,delivered,10,Lucknow
+ORD00233,CUST0292,"November 23, 2023",wallet,DELIVERED,15,Bangalore
+ORD00062,CUST9903,"February 24, 2023",Credit Card,cancelled,15,Lucknow
+ORD00042,CUST0163,11/03/2022,Netbanking,Delivered,20,Bhopal
+ORD00374,CUST0034,"May 11, 2022",Wallet,Delivered,5,Surat
+ORD00205,CUST0086,11-07-2023,upi,Cancelled,10,Delhi
+ORD00447,CUST0196,2023-06-08,Netbanking,cancelled,5,Delhi
+ORD00396,CUST0149,27-03-2023,wallet,cancelled,-5,Chennai
+ORD00333,CUST0217,02-06-2023,UPI,Returned,0,Mumbai
+ORD00223,CUST0044,"May 03, 2022",credit card,Pending,0,Bangalore
+ORD00227,CUST0063,14/09/2022,CASH,Delivered,15,Delhi
+ORD00325,CUST0212,2023-02-24,Netbanking,Returned,15,Bhopal
+ORD00934,CUST0136,"June 29, 2023",upi,Cancelled,5,Delhi
+ORD00416,CUST0175,29.03.2022,Cash,Pending,10,Jaipur
+ORD00065,CUST0146,18/09/2023,Wallet,DELIVERED,25,Pune
+ORD00443,CUST0007,2023-02-03,CASH,Delivered,5,Lucknow
+ORD00823,CUST0031,21-05-2023,credit card,Cancelled,,Lucknow
+ORD00233,CUST0292,"November 23, 2023",wallet,DELIVERED,15,Bangalore
+ORD00620,CUST0186,17/03/2023,Cash,Delivered,15,Surat
+ORD00578,CUST0073,02.01.2022,UPI,Delivered,5,Chennai
+ORD00429,CUST0222,"April 14, 2023",wallet,Delivered,10,Mumbai
+ORD00583,CUST0189,29/09/2022,UPI,Delivered,0,Bhopal
+ORD00986,CUST0014,11.07.2023,Credit Card,Delivered,0,Bhopal
+ORD00564,CUST0076,12/10/2022,Net Banking,Delivered,0,Delhi
+ORD00913,CUST0150,"February 12, 2023",upi,Pending,0,Delhi
+ORD00947,CUST0057,29.04.2023,Credit Card,Returned,0,Lucknow
+ORD00719,CUST0095,"May 26, 2022",Debit Card,DELIVERED,5,Chennai
+ORD00327,CUST0202,"February 07, 2022",Wallet,Delivered,0,Surat
+ORD00859,CUST0223,"December 22, 2022",Cash,Returned,5,Chennai
+ORD00106,CUST0280,05/08/2022,CASH,Delivered,0,Pune
+ORD00436,CUST0151,2022-05-08,credit card,Delivered,150,Bangalore
+ORD00499,CUST0076,2023-01-21,wallet,Delivered,10,Bangalore
+ORD00892,CUST0140,06.01.2022,Cash,Delivered,10,Ahmedabad
+ORD00361,CUST0285,"April 08, 2023",UPI,delivered,0,Mumbai
+ORD00988,CUST0094,12/02/2023,Cash,Delivered,20,Bhopal
+ORD00204,CUST0025,"October 24, 2022",Netbanking,Delivered,5,Delhi
+ORD00580,CUST0145,2023-01-01,Wallet,Returned,0,Delhi
+ORD00125,CUST0300,"February 05, 2023",wallet,Delivered,15,Surat
+ORD00882,CUST0133,22.07.2022,Wallet,delivered,20,Delhi
+ORD00482,CUST0267,09.08.2023,UPI,Delivered,20,Surat
+ORD00356,CUST0133,20/01/2023,UPI,Delivered,0,Ahmedabad
+ORD00254,CUST0121,"April 25, 2022",Netbanking,Delivered,25,Jaipur
+ORD00258,CUST0280,10-03-2023,wallet,Delivered,15,Pune
+ORD00287,CUST0014,"October 19, 2022",credit card,Returned,0,Pune
+ORD00149,CUST0052,2023-10-10,credit card,Delivered,25,Mumbai
+ORD00998,CUST0119,"November 08, 2023",Net Banking,Delivered,15,Delhi
+ORD00826,CUST0054,2023-03-12,credit card,Delivered,0,Bangalore
+ORD00959,CUST0235,"November 01, 2023",Wallet,Returned,5,Hyderabad
+ORD00208,CUST0270,29.06.2023,Credit Card,Pending,20,Bangalore
+ORD00477,CUST0123,2023-01-05,credit card,cancelled,10,Delhi
+ORD00279,CUST0253,14-12-2022,Debit Card,Delivered,15,Chennai
+ORD00840,CUST0287,07-02-2023,credit card,delivered,10,Jaipur
+ORD00423,CUST9334,"March 13, 2022",UPI,Returned,15,Kolkata
+ORD00752,CUST0126,"June 24, 2023",upi,DELIVERED,5,Kolkata
+ORD00326,CUST0265,13.03.2022,upi,Returned,0,Mumbai
+ORD00769,CUST0056,"March 21, 2022",CASH,Delivered,20,Lucknow
+ORD00011,CUST0259,12.12.2022,Netbanking,cancelled,0,Jaipur
+ORD00719,CUST0095,"May 26, 2022",Debit Card,DELIVERED,5,Chennai
+ORD00331,CUST0065,2023-06-17,Net Banking,Delivered,20,Pune
+ORD00974,CUST0024,07/07/2023,Wallet,DELIVERED,-5,Delhi
+ORD00962,CUST0120,11.08.2022,UPI,Delivered,10,Mumbai
+ORD00137,CUST0171,2023-11-30,credit card,Delivered,5,Pune
+ORD00048,CUST0139,27/02/2023,wallet,Delivered,5,Ahmedabad
+ORD00870,CUST0126,07.06.2022,upi,Delivered,20,Jaipur
+ORD00167,CUST0007,11-12-2023,Cash,Delivered,10,Delhi
+ORD00377,CUST0265,14.02.2022,UPI,Cancelled,5,Kolkata
+ORD00297,CUST0245,04/11/2022,Debit Card,Cancelled,0,Mumbai
+ORD00732,CUST0103,20-07-2022,CASH,delivered,5,Kolkata
+ORD00305,CUST0097,28/01/2022,CASH,Delivered,5,Jaipur
+ORD00720,CUST0052,26.08.2023,upi,Cancelled,15,Ahmedabad
+ORD00364,CUST0063,24/05/2022,Net Banking,Pending,20,Pune
+ORD00661,CUST0164,06.12.2023,upi,Delivered,0,Hyderabad
+ORD00066,CUST0019,06.04.2022,upi,Returned,5,Jaipur
+ORD00397,CUST0090,"August 13, 2022",Debit Card,Returned,5,Bangalore
+ORD00444,CUST0189,14-02-2022,Cash,Pending,0,Delhi
+ORD00858,CUST0268,06.04.2023,UPI,cancelled,0,Bhopal
+ORD00431,CUST0112,21-05-2023,Netbanking,Delivered,10,Pune
+ORD00536,CUST0096,16.02.2023,UPI,Delivered,10,Jaipur
+ORD00897,CUST0041,2023-10-09,Netbanking,Returned,15,Pune
+ORD00381,CUST0028,"December 08, 2022",Cash,Delivered,20,Surat
+ORD00616,CUST0048,24.12.2022,CASH,DELIVERED,15,Delhi
+ORD00278,CUST0203,2023-11-19,Debit Card,DELIVERED,10,Jaipur
+ORD00888,CUST0052,27-01-2023,Credit Card,Returned,,Chennai
+ORD00778,CUST0248,12/09/2023,CASH,Pending,5,Bangalore
+ORD00682,CUST0221,05-06-2023,UPI,delivered,150,Bhopal
+ORD00350,CUST0296,24.02.2022,Netbanking,Delivered,,Jaipur
+ORD00833,CUST0240,"September 01, 2023",Credit Card,Returned,0,Mumbai
+ORD00871,CUST0202,17.12.2023,CASH,Pending,5,Delhi
+ORD00311,CUST0214,30-04-2023,CASH,cancelled,0,Bangalore
+ORD00887,CUST0125,2023-06-21,CASH,Delivered,,Bhopal
+ORD00545,CUST0079,2023-06-08,Cash,Cancelled,0,Hyderabad
+ORD00188,CUST0170,"October 25, 2023",CASH,Cancelled,5,Bhopal
+ORD00712,CUST0236,2022-02-25,UPI,Cancelled,0,Chennai
+ORD00490,CUST0164,"January 09, 2023",Netbanking,cancelled,0,Jaipur
+ORD00304,CUST0185,09/12/2023,Net Banking,Delivered,10,Mumbai
+ORD00615,CUST0054,25.10.2022,Debit Card,cancelled,10,Ahmedabad
+ORD00783,CUST0264,27/06/2023,credit card,Returned,10,Bhopal
+ORD00608,CUST0021,"December 31, 2023",Cash,Delivered,10,Lucknow
+ORD00475,CUST0050,"August 05, 2022",UPI,Pending,20,Chennai
+ORD00614,CUST0231,27/09/2022,Wallet,Delivered,0,Bangalore
+ORD00810,CUST0011,"January 24, 2023",upi,Returned,-5,Pune
+ORD00387,CUST0100,10-08-2023,wallet,DELIVERED,0,Lucknow
+ORD00800,CUST0046,2023-06-13,UPI,Pending,5,Bhopal
+ORD00244,CUST0219,"August 03, 2022",Credit Card,Cancelled,10,Jaipur
+ORD00780,CUST0161,"May 01, 2022",credit card,Pending,0,Surat
+ORD00944,CUST0103,09-08-2022,Netbanking,delivered,25,Pune
+ORD00030,CUST0276,05-08-2022,Netbanking,DELIVERED,5,Bangalore
+ORD00242,CUST0039,2023-07-03,Net Banking,Cancelled,5,Hyderabad
+ORD00206,CUST0274,17/08/2023,Debit Card,Delivered,10,Ahmedabad
+ORD00235,CUST0146,2022-11-25,UPI,cancelled,0,Bhopal
+ORD00299,CUST0292,2022-09-17,Net Banking,cancelled,,Surat
+ORD00571,CUST0097,2023-08-07,Debit Card,Cancelled,15,Kolkata
+ORD00709,CUST0182,14.03.2023,credit card,Pending,15,Kolkata
+ORD00359,CUST0052,10-09-2022,wallet,Delivered,20,Surat
+ORD00512,CUST0276,07/06/2023,Credit Card,Delivered,5,Hyderabad
+ORD00118,CUST0058,11.09.2023,Wallet,Delivered,0,Bhopal
+ORD00556,CUST0099,"December 23, 2023",Credit Card,Delivered,15,Ahmedabad
+ORD00438,CUST0268,19.10.2023,credit card,Cancelled,150,Hyderabad
+ORD00695,CUST0076,25-02-2023,wallet,Delivered,5,Bhopal
+ORD00805,CUST0059,22.12.2022,Debit Card,delivered,10,Mumbai
+ORD00097,CUST0221,22/03/2023,upi,DELIVERED,25,Bhopal
+ORD00503,CUST0062,"April 30, 2022",Credit Card,delivered,0,Lucknow
+ORD00339,CUST0136,22.08.2023,wallet,Pending,15,Bhopal
+ORD00370,CUST0114,21/01/2022,wallet,Returned,5,Chennai
+ORD00829,CUST0139,"June 20, 2023",Wallet,Returned,10,Jaipur
+ORD00247,CUST0240,"October 02, 2022",Wallet,Pending,-5,Pune
+ORD00818,CUST0193,26.10.2022,Credit Card,Delivered,10,Bhopal
+ORD00868,CUST0047,13.11.2022,upi,delivered,-5,Hyderabad
+ORD00491,CUST0236,20.11.2022,Net Banking,Delivered,0,Chennai
+ORD00519,CUST0116,08/10/2022,Credit Card,Pending,0,Delhi
+ORD00495,CUST0012,16.07.2023,upi,Pending,10,Kolkata
+ORD00802,CUST0248,28-06-2023,Net Banking,Delivered,0,Surat
+ORD00761,CUST0122,2022-05-16,Net Banking,Cancelled,0,Chennai
+ORD00398,CUST0135,14.04.2022,wallet,Delivered,0,Pune
+ORD00625,CUST0040,15-11-2023,Wallet,Delivered,25,Bhopal
+ORD00565,CUST0001,27-10-2023,wallet,cancelled,10,Jaipur
+ORD00409,CUST0240,19-03-2023,upi,delivered,150,Hyderabad
+ORD00822,CUST0128,27.03.2022,credit card,cancelled,0,Hyderabad
+ORD00891,CUST0096,"October 11, 2022",wallet,Delivered,20,Chennai
+ORD00124,CUST0182,19-03-2023,wallet,Cancelled,25,Chennai
+ORD00158,CUST0297,30/11/2022,Cash,Returned,10,Delhi
+ORD00479,CUST0128,"January 13, 2023",Wallet,delivered,15,Surat
+ORD00474,CUST0249,20-11-2023,UPI,Delivered,,Mumbai
+ORD00169,CUST0071,22.12.2023,Debit Card,Returned,,Delhi
+ORD00290,CUST0292,13-05-2022,UPI,Cancelled,5,Jaipur
+ORD00189,CUST0227,13/12/2022,CASH,Delivered,0,Mumbai
+ORD00768,CUST0032,"September 23, 2022",UPI,Returned,5,Pune
+ORD00935,CUST0094,15.05.2023,upi,DELIVERED,0,Kolkata
+ORD00791,CUST0061,22/10/2022,CASH,delivered,5,Chennai
+ORD00443,CUST0007,2023-02-03,CASH,Delivered,5,Lucknow
+ORD00744,CUST0245,2022-11-07,UPI,Delivered,5,Jaipur
+ORD00673,CUST0300,"February 28, 2023",wallet,Delivered,15,Surat
+ORD00858,CUST0268,06.04.2023,UPI,cancelled,0,Bhopal
+ORD00091,CUST0274,2022-03-22,Wallet,Delivered,15,Ahmedabad
+ORD00181,CUST0211,16.08.2023,wallet,Returned,10,Jaipur
+ORD00197,CUST0213,29/06/2022,CASH,cancelled,20,Chennai
+ORD00417,CUST0016,19-01-2023,Wallet,Delivered,,Pune
+ORD00875,CUST0204,21/03/2022,Debit Card,delivered,5,Delhi
+ORD00055,CUST0280,19.05.2022,credit card,Returned,10,Bhopal
+ORD00342,CUST0190,2022-05-02,credit card,Delivered,25,Jaipur
+ORD00459,CUST0146,2023-01-20,Wallet,delivered,20,Hyderabad
+ORD00058,CUST0082,23/01/2023,credit card,Delivered,20,Surat
+ORD00260,CUST0123,17-09-2022,credit card,Cancelled,20,Jaipur
+ORD00796,CUST0060,29-12-2022,Cash,Delivered,0,Ahmedabad
+ORD00041,CUST0159,07/12/2023,Debit Card,Pending,20,Bangalore
+ORD00592,CUST0298,2022-03-17,Wallet,Delivered,15,Hyderabad
+ORD00658,CUST0086,04.02.2022,Net Banking,cancelled,20,Surat
+ORD00725,CUST0236,24.05.2022,wallet,Cancelled,5,Ahmedabad
+ORD00645,CUST0194,24/09/2022,Net Banking,Delivered,0,Lucknow
+ORD00831,CUST0070,18-06-2022,CASH,Delivered,20,Delhi
+ORD00483,CUST0281,24.04.2023,CASH,Delivered,0,Hyderabad
+ORD00272,CUST0254,02-05-2022,Cash,Delivered,5,Bangalore
+ORD00630,CUST0158,30.05.2023,CASH,delivered,0,Jaipur
+ORD00043,CUST0016,23.11.2022,credit card,Cancelled,10,Surat
+ORD00837,CUST0142,2023-09-23,Cash,Delivered,15,Delhi
+ORD00603,CUST0145,12.02.2023,Cash,Returned,20,Bhopal
+ORD00828,CUST0072,15-07-2023,credit card,Delivered,10,Bhopal
+ORD00162,CUST0239,15/04/2023,Debit Card,Returned,10,Surat
+ORD00069,CUST0148,"March 14, 2023",upi,Cancelled,25,Bangalore
+ORD00218,CUST0093,"December 30, 2022",credit card,Delivered,10,Pune
+ORD00987,CUST0152,10.05.2022,Net Banking,delivered,10,Jaipur
+ORD00716,CUST0079,11/09/2023,Netbanking,Delivered,0,Jaipur
+ORD00441,CUST0168,"November 27, 2022",wallet,Delivered,20,Kolkata
+ORD00073,CUST0104,08-12-2023,Net Banking,Delivered,5,Mumbai
+ORD00310,CUST0250,26.08.2022,Netbanking,Delivered,0,Chennai
+ORD00298,CUST0283,"March 20, 2022",Netbanking,Delivered,0,Surat
+ORD00283,CUST0134,17.06.2022,credit card,Delivered,15,Bhopal
+ORD00145,CUST0234,2023-09-18,Wallet,Delivered,0,Lucknow
+ORD00736,CUST0071,2022-03-10,credit card,Pending,15,Jaipur
+ORD00209,CUST0009,07/05/2023,Net Banking,Returned,10,Lucknow
+ORD00896,CUST0108,30-06-2023,wallet,Pending,0,Lucknow
+ORD00816,CUST0049,26-08-2023,Cash,cancelled,10,Bhopal
+ORD00922,CUST0161,20/06/2023,credit card,delivered,10,Ahmedabad
+ORD00960,CUST0158,"July 05, 2022",UPI,DELIVERED,-5,Jaipur
+ORD00793,CUST9852,05/09/2023,Netbanking,DELIVERED,0,Pune
+ORD00275,CUST0235,29-03-2022,CASH,Delivered,0,Hyderabad
+ORD00375,CUST0012,"December 11, 2023",Wallet,Cancelled,150,Surat
+ORD00152,CUST0256,19-09-2023,wallet,Cancelled,0,Hyderabad
+ORD00109,CUST0093,11.04.2023,credit card,DELIVERED,20,Kolkata
+ORD00699,CUST0222,2023-04-11,upi,Cancelled,25,Surat
+ORD00866,CUST0056,08.03.2023,Net Banking,cancelled,10,Bangalore
+ORD00198,CUST0284,18-05-2023,Net Banking,cancelled,0,Hyderabad
+ORD00711,CUST0290,28.10.2022,credit card,Delivered,0,Jaipur
+ORD00320,CUST0057,"April 19, 2022",Wallet,Delivered,25,Surat
+ORD00129,CUST0290,09-07-2022,Debit Card,Cancelled,0,Surat
+ORD00756,CUST0031,2022-10-13,credit card,delivered,25,Mumbai
+ORD00570,CUST0189,01/06/2022,Credit Card,delivered,15,Bangalore
+ORD00527,CUST0123,2022-04-06,Wallet,Delivered,0,Ahmedabad
+ORD00212,CUST0040,20/01/2022,credit card,Delivered,15,Jaipur
+ORD00366,CUST0236,2023-09-06,UPI,Delivered,-5,Surat
+ORD00150,CUST0092,02.04.2022,Net Banking,Pending,25,Surat
+ORD00550,CUST0057,03.10.2022,Net Banking,Returned,10,Bangalore
+ORD00020,CUST0117,2023-10-31,UPI,Pending,,Lucknow
+ORD00574,CUST0023,16/05/2022,Credit Card,Cancelled,5,Mumbai
+ORD00456,CUST0104,06.10.2022,Credit Card,Returned,15,Kolkata
+ORD00021,CUST0077,2022-12-01,Cash,Delivered,20,Ahmedabad
+ORD00738,CUST0149,15/09/2022,upi,Delivered,,Hyderabad
+ORD00026,CUST0058,19-11-2023,credit card,Returned,10,Surat
+ORD00856,CUST0092,13.10.2022,Wallet,Returned,0,Hyderabad
+ORD00132,CUST0202,"July 02, 2022",Credit Card,Delivered,15,Surat
+ORD00266,CUST0295,"March 26, 2022",Debit Card,Delivered,0,Surat
+ORD00159,CUST0122,2023-02-27,credit card,Delivered,5,Kolkata
+ORD00807,CUST0163,26.02.2023,CASH,Pending,150,Bhopal
+ORD00644,CUST0184,11-07-2022,wallet,Delivered,5,Bhopal
+ORD00555,CUST0067,"October 07, 2023",Credit Card,Delivered,25,Hyderabad
+ORD00665,CUST0197,2022-08-31,UPI,Cancelled,25,Mumbai
+ORD00403,CUST0251,2022-08-03,CASH,cancelled,0,Surat
+ORD00402,CUST0151,02-06-2022,Cash,Delivered,10,Lucknow
+ORD00864,CUST0234,31.08.2023,credit card,Pending,25,Pune
+ORD00432,CUST0210,"April 07, 2023",Net Banking,Delivered,,Bhopal
+ORD00517,CUST0223,2023-01-24,Wallet,Delivered,0,Surat
+ORD00293,CUST0062,"November 02, 2022",credit card,Cancelled,15,Pune
+ORD00525,CUST0240,"May 30, 2023",Net Banking,Pending,5,Hyderabad
+ORD00808,CUST0113,14.12.2022,Net Banking,delivered,0,Jaipur
+ORD00637,CUST0136,2022-11-11,wallet,Delivered,10,Mumbai
+ORD00199,CUST0014,03.01.2022,Net Banking,Cancelled,0,Chennai
+ORD00991,CUST0116,05/06/2022,Wallet,Pending,20,Kolkata
+ORD00997,CUST0168,"January 12, 2022",Netbanking,Cancelled,0,Ahmedabad
+ORD00535,CUST0030,31-12-2022,Wallet,delivered,0,Pune
+ORD00378,CUST0100,09/12/2022,Wallet,Delivered,0,Delhi
+ORD00675,CUST0181,2023-07-26,wallet,Delivered,5,Hyderabad
+ORD00018,CUST0167,2023-05-10,CASH,cancelled,0,Bhopal
+ORD00448,CUST0159,2022-08-31,Cash,cancelled,10,Chennai
+ORD00156,CUST0129,2022-12-09,CASH,Delivered,25,Bangalore
+ORD00081,CUST0228,03/06/2023,CASH,DELIVERED,0,Bhopal
+ORD00264,CUST0034,27-12-2022,Wallet,DELIVERED,-5,Surat
+ORD00841,CUST0041,12/09/2023,Debit Card,Cancelled,5,Ahmedabad
+ORD00844,CUST9317,20/07/2022,upi,DELIVERED,15,Pune
+ORD00560,CUST0098,"February 12, 2023",wallet,DELIVERED,15,Jaipur
+ORD00996,CUST0142,24/05/2022,Credit Card,cancelled,10,Chennai
+ORD00249,CUST0105,27-02-2023,Net Banking,Delivered,5,Hyderabad
+ORD00904,CUST0002,2023-06-30,CASH,Delivered,10,Kolkata
+ORD00939,CUST0081,30.11.2022,CASH,cancelled,20,Chennai
+ORD00969,CUST0073,12/09/2022,Wallet,Delivered,0,Ahmedabad
+ORD00120,CUST0079,23.05.2023,credit card,Delivered,10,Lucknow
+ORD00050,CUST0161,"February 08, 2023",Wallet,cancelled,25,Mumbai
+ORD00912,CUST0276,2022-05-04,wallet,DELIVERED,25,Mumbai
+ORD00010,CUST0184,2023-11-22,wallet,Pending,15,Kolkata
+ORD00663,CUST0039,11-08-2023,wallet,Pending,10,Mumbai
+ORD00927,CUST0127,08/09/2022,Debit Card,Delivered,5,Mumbai
+ORD00430,CUST0123,11-06-2022,wallet,DELIVERED,,Bhopal
+ORD00334,CUST0064,05.04.2023,Wallet,Delivered,5,Bhopal
+ORD00878,CUST0043,2022-12-21,wallet,Pending,0,Jaipur
+ORD00087,CUST0106,10-07-2023,Netbanking,Returned,10,Chennai
+ORD00371,CUST0114,28-08-2022,upi,Delivered,15,Lucknow
+ORD00057,CUST0231,12.10.2023,Credit Card,DELIVERED,10,Lucknow
+ORD00794,CUST0105,"October 16, 2022",credit card,delivered,25,Delhi
+ORD00323,CUST0004,"September 09, 2022",upi,Cancelled,15,Bhopal
+ORD00643,CUST0015,25.09.2023,Credit Card,cancelled,20,Ahmedabad
+ORD00886,CUST0274,07.04.2022,Debit Card,delivered,0,Ahmedabad
+ORD00648,CUST0038,14.05.2023,Cash,Pending,0,Ahmedabad
+ORD00671,CUST0027,23-09-2022,Credit Card,Delivered,0,Lucknow
+ORD00542,CUST0066,29/11/2022,Netbanking,Pending,10,Mumbai
+ORD00082,CUST0269,"November 14, 2022",Debit Card,Delivered,10,Bhopal
+ORD00734,CUST0185,22-02-2023,Netbanking,Delivered,25,Bhopal
+ORD00335,CUST0298,03-08-2023,Wallet,Delivered,20,Bhopal
+ORD00446,CUST0069,07.12.2022,wallet,Returned,,Ahmedabad
+ORD00903,CUST0207,22/05/2023,Net Banking,delivered,15,Chennai
+ORD00714,CUST0105,13/06/2023,Netbanking,delivered,0,Bangalore
+ORD00270,CUST0135,"December 20, 2023",UPI,Pending,0,Delhi
+ORD00601,CUST0159,12/07/2022,Cash,Delivered,20,Lucknow
+ORD00824,CUST0209,06.01.2022,Cash,DELIVERED,5,Surat
+ORD00012,CUST0167,16-01-2023,wallet,Pending,10,Hyderabad
+ORD00776,CUST0295,28-10-2022,upi,Delivered,5,Delhi
+ORD00322,CUST0079,2023-10-25,upi,Delivered,10,Kolkata
+ORD00240,CUST0293,04.02.2023,Wallet,Delivered,10,Pune
+ORD00024,CUST0067,19.05.2022,Netbanking,Delivered,15,Jaipur
+ORD00849,CUST0050,2023-07-12,Cash,cancelled,5,Pune
+ORD00354,CUST0074,07-07-2022,Credit Card,Delivered,5,Mumbai
+ORD00885,CUST0019,"September 03, 2023",upi,Delivered,0,Delhi
+ORD00163,CUST0088,15.08.2023,Cash,Delivered,20,Hyderabad
+ORD00462,CUST0290,16-06-2022,credit card,Cancelled,5,Bhopal
+ORD00659,CUST0272,27/12/2022,UPI,Delivered,10,Bangalore
+ORD00792,CUST0055,26/08/2022,Debit Card,Delivered,5,Bangalore
+ORD00123,CUST0007,"October 23, 2022",credit card,Returned,,Surat
+ORD00452,CUST0128,"December 05, 2023",Wallet,Pending,5,Mumbai
+ORD00394,CUST0115,11/12/2023,CASH,cancelled,5,Pune
+ORD00653,CUST0138,08-10-2022,Cash,Delivered,15,Ahmedabad
+ORD00344,CUST0216,19/02/2022,Net Banking,Delivered,5,Delhi
+ORD00025,CUST0269,10.09.2022,Credit Card,Cancelled,5,Delhi
+ORD00138,CUST0042,16/04/2023,wallet,Delivered,5,Surat
+ORD00801,CUST0092,09.02.2022,Net Banking,cancelled,10,Pune
+ORD00746,CUST0221,2023-12-20,Netbanking,Delivered,10,Pune
+ORD00636,CUST0238,27/02/2023,UPI,Returned,10,Surat
+ORD00646,CUST0053,2022-04-24,Wallet,Delivered,15,Bangalore
+ORD00369,CUST0184,01.02.2023,UPI,Delivered,0,Mumbai
+ORD00151,CUST0139,20/06/2023,credit card,Delivered,-5,Bhopal
+ORD00250,CUST0059,03-06-2022,UPI,Delivered,5,Kolkata
+ORD00490,CUST0164,"January 09, 2023",Netbanking,cancelled,0,Jaipur
+ORD00584,CUST0245,10-03-2022,Wallet,Pending,0,Bangalore
+ORD00770,CUST0191,29-11-2023,Credit Card,Pending,10,Pune
+ORD00628,CUST0050,"February 07, 2022",Cash,Pending,5,Hyderabad
+ORD00582,CUST0077,15-11-2023,Wallet,Cancelled,5,Ahmedabad
+ORD00967,CUST0052,30.12.2022,Net Banking,Delivered,10,Hyderabad
+ORD00306,CUST0098,30.03.2022,CASH,Delivered,5,Bangalore
+ORD00727,CUST0270,"September 23, 2022",upi,cancelled,0,Kolkata
+ORD00843,CUST0178,11/03/2023,Wallet,DELIVERED,5,Bhopal
+ORD00836,CUST0135,"August 01, 2023",Debit Card,DELIVERED,0,Lucknow
+ORD00401,CUST0192,2022-11-22,credit card,Delivered,25,Jaipur
+ORD00708,CUST0050,"May 22, 2022",CASH,Returned,20,Ahmedabad
+ORD00906,CUST0293,23/02/2023,upi,cancelled,0,Surat
+ORD00489,CUST0296,"January 02, 2022",UPI,cancelled,5,Kolkata
+ORD00047,CUST0199,19/05/2023,Debit Card,Delivered,15,Mumbai
+ORD00133,CUST0055,2023-03-29,Credit Card,Delivered,5,Ahmedabad
+ORD00670,CUST0224,20-08-2022,Credit Card,Delivered,0,Mumbai
+ORD00380,CUST0222,25-01-2022,wallet,Returned,25,Pune
+ORD00294,CUST0263,24.07.2022,CASH,Pending,15,Delhi
+ORD00015,CUST0012,"December 08, 2023",Netbanking,DELIVERED,5,Delhi
+ORD00053,CUST0147,"April 18, 2023",credit card,Cancelled,0,Bangalore
+ORD00938,CUST0108,08/08/2023,upi,Delivered,0,Bangalore
+ORD00595,CUST0017,2023-09-11,Netbanking,Delivered,0,Ahmedabad
+ORD00552,CUST0052,18-03-2023,Net Banking,delivered,0,Surat
+ORD00079,CUST0162,2023-12-28,Net Banking,Pending,0,Ahmedabad
+ORD00425,CUST0106,14/11/2022,wallet,delivered,10,Lucknow
+ORD00674,CUST0251,2022-10-15,CASH,Delivered,10,Delhi
+ORD00950,CUST0161,05-01-2023,Cash,Delivered,15,Pune
+ORD00586,CUST0171,"May 22, 2022",credit card,Pending,5,Jaipur
+ORD00682,CUST0221,05-06-2023,UPI,delivered,150,Bhopal
+ORD00221,CUST0228,20.08.2022,credit card,Cancelled,150,Surat
+ORD00372,CUST0108,2022-01-08,wallet,Pending,5,Ahmedabad
+ORD00478,CUST0002,"April 13, 2023",Debit Card,Delivered,10,Bhopal
+ORD00080,CUST0155,2022-08-10,Net Banking,Delivered,-5,Delhi
+ORD00505,CUST0153,2023-08-09,Credit Card,Returned,0,Jaipur
+ORD00691,CUST0242,23-04-2022,UPI,cancelled,0,Bangalore
+ORD00236,CUST0299,28.01.2022,credit card,Delivered,10,Pune
+ORD00059,CUST0077,16.06.2022,Debit Card,Delivered,0,Ahmedabad
+ORD00262,CUST0153,04.08.2022,CASH,Returned,0,Delhi
+ORD00915,CUST0125,10-05-2023,Net Banking,Delivered,,Ahmedabad
+ORD00117,CUST0259,"March 20, 2022",Net Banking,Delivered,5,Mumbai
+ORD00753,CUST0249,"October 14, 2022",Cash,Delivered,0,Hyderabad
+ORD00899,CUST0181,02-08-2023,credit card,Delivered,10,Hyderabad
+ORD00251,CUST0217,25-10-2023,Cash,Delivered,0,Chennai
+ORD00610,CUST0256,07-04-2022,upi,Delivered,15,Pune
+ORD00976,CUST0001,15/11/2022,CASH,Cancelled,15,Lucknow
+ORD00226,CUST0183,"May 03, 2023",credit card,delivered,25,Delhi
+ORD00346,CUST0194,"May 02, 2023",Debit Card,Delivered,25,Surat
+ORD00956,CUST0170,16-03-2022,wallet,cancelled,0,Bhopal
+ORD00605,CUST0196,04/05/2023,UPI,Cancelled,25,Surat
+ORD00786,CUST0094,2023-08-27,Credit Card,Delivered,20,Surat
+ORD00096,CUST0123,28.09.2023,Netbanking,Delivered,5,Bhopal
+ORD00442,CUST0062,26-08-2022,Credit Card,Returned,5,Pune
+ORD00071,CUST0149,18.07.2022,Credit Card,Delivered,0,Hyderabad
+ORD00587,CUST0275,24.08.2022,Credit Card,cancelled,10,Bhopal
+ORD00647,CUST0048,21.03.2022,upi,Delivered,15,Kolkata
+ORD00540,CUST0057,14.07.2022,UPI,Delivered,5,Mumbai
+ORD00687,CUST0178,2023-10-15,Wallet,Cancelled,5,Bhopal
+ORD00219,CUST0064,23.04.2023,Netbanking,Delivered,0,Jaipur
+ORD00412,CUST0101,23-11-2023,Net Banking,Cancelled,10,Bangalore
+ORD00704,CUST0101,19/03/2023,Credit Card,Cancelled,25,Hyderabad
+ORD00506,CUST0095,"February 20, 2023",credit card,DELIVERED,0,Delhi
+ORD00427,CUST0127,23.06.2023,Wallet,delivered,-5,Chennai
+ORD00421,CUST0232,2023-10-17,Credit Card,Delivered,5,Bhopal
+ORD00985,CUST0234,"November 11, 2023",wallet,Returned,0,Kolkata
+ORD00017,CUST0132,"November 04, 2022",Wallet,Pending,0,Bhopal
+ORD00705,CUST0198,09-03-2023,Credit Card,Cancelled,10,Kolkata
+ORD00777,CUST0124,01-04-2023,upi,Delivered,150,Surat
+ORD00222,CUST0189,2022-07-03,wallet,delivered,0,Surat
+ORD00241,CUST0255,30-05-2023,Debit Card,cancelled,10,Ahmedabad
+ORD00703,CUST0180,18/10/2022,wallet,DELIVERED,20,Bangalore
+ORD00103,CUST0177,"April 02, 2022",UPI,cancelled,25,Chennai
+ORD00302,CUST0109,2022-07-09,Wallet,Cancelled,150,Delhi
+ORD00110,CUST0004,15-08-2023,Cash,DELIVERED,15,Pune
+ORD00381,CUST0028,"December 08, 2022",Cash,Delivered,20,Surat
+ORD00072,CUST0213,"February 28, 2023",upi,Returned,0,Surat
+ORD00476,CUST0249,30-04-2023,Wallet,Pending,10,Pune
+ORD00225,CUST0218,27-05-2023,Wallet,cancelled,5,Kolkata
+ORD00363,CUST0300,"June 07, 2023",UPI,Delivered,5,Kolkata
+ORD00940,CUST0242,07-11-2022,Debit Card,Cancelled,10,Pune
+ORD00528,CUST0006,11.03.2023,Debit Card,delivered,20,Jaipur
+ORD00349,CUST0013,"August 09, 2023",Netbanking,Delivered,5,Jaipur
+ORD00369,CUST0184,01.02.2023,UPI,Delivered,0,Mumbai
+ORD00567,CUST0183,2022-08-13,Debit Card,Cancelled,5,Lucknow
+ORD00606,CUST0048,26/08/2022,wallet,Delivered,5,Bhopal
+ORD00881,CUST0058,2022-07-03,Netbanking,Pending,10,Bhopal
+ORD00847,CUST0233,2023-05-18,CASH,DELIVERED,,Bangalore
+ORD00288,CUST0079,30.01.2022,CASH,delivered,0,Surat
+ORD00548,CUST0219,2022-01-19,Cash,Delivered,25,Bhopal
+ORD00863,CUST0052,11.07.2022,Net Banking,Delivered,10,Ahmedabad
+ORD00060,CUST9783,04/10/2023,Credit Card,Delivered,0,Ahmedabad
+ORD00685,CUST0019,"August 13, 2023",Cash,Delivered,5,Lucknow
+ORD00530,CUST0177,2022-09-08,wallet,cancelled,20,Surat
+ORD00788,CUST0119,"November 01, 2022",upi,Delivered,15,Jaipur
+ORD00668,CUST0285,17.11.2022,Wallet,Delivered,15,Ahmedabad
+ORD00579,CUST0116,02.12.2023,wallet,Delivered,10,Delhi
+ORD00184,CUST0275,20/10/2022,Debit Card,Delivered,150,Lucknow
+ORD00569,CUST0167,03/10/2022,Wallet,Pending,5,Kolkata
+ORD00029,CUST0076,22-10-2022,upi,Delivered,-5,Bhopal
+ORD00524,CUST0190,26.12.2023,wallet,cancelled,5,Pune
+ORD00128,CUST0112,"September 06, 2023",Credit Card,Delivered,0,Surat
+ORD00894,CUST0236,26-08-2023,wallet,cancelled,10,Jaipur
+ORD00566,CUST0136,17-05-2022,Wallet,Cancelled,10,Mumbai
+ORD00271,CUST0189,"June 24, 2022",Credit Card,Delivered,25,Ahmedabad
+ORD00210,CUST0268,2022-12-17,Net Banking,Delivered,0,Bangalore
+ORD00134,CUST0010,2023-05-25,wallet,Delivered,0,Bhopal
+ORD00973,CUST0015,2022-01-27,UPI,delivered,10,Kolkata
+ORD00520,CUST0090,2023-06-24,Wallet,delivered,5,Chennai
+ORD00713,CUST0290,"May 09, 2023",UPI,Delivered,10,Mumbai
+ORD00772,CUST0077,29/08/2023,Credit Card,cancelled,0,Bhopal
+ORD00365,CUST0176,13/10/2023,CASH,Cancelled,5,Hyderabad
+ORD00901,CUST0293,"October 24, 2022",Debit Card,Pending,0,Kolkata
+ORD00814,CUST0127,04.02.2022,Credit Card,Pending,5,Chennai
+ORD00690,CUST0088,27.11.2023,Wallet,Returned,0,Hyderabad
+ORD00016,CUST0020,17-04-2023,Debit Card,Delivered,10,Hyderabad
+ORD00982,CUST0204,27.11.2022,Wallet,delivered,0,Lucknow
+ORD00755,CUST0011,"May 26, 2023",Net Banking,Cancelled,0,Delhi
+ORD00032,CUST0139,2022-02-24,wallet,Delivered,15,Surat
+ORD00316,CUST0156,2022-08-29,Netbanking,Delivered,5,Surat
+ORD00321,CUST0061,30.07.2022,Debit Card,Cancelled,10,Delhi
+ORD00376,CUST0027,2022-11-27,credit card,Cancelled,10,Pune
+ORD00669,CUST0063,18/01/2023,Credit Card,Delivered,-5,Pune
+ORD00787,CUST0233,"January 24, 2023",CASH,Delivered,10,Delhi
+ORD00406,CUST0019,01/08/2022,Cash,delivered,5,Kolkata
+ORD00273,CUST0221,31/07/2022,Cash,Cancelled,25,Bangalore
+ORD00932,CUST0227,21.10.2023,Wallet,cancelled,5,Kolkata
+ORD00257,CUST0210,"September 18, 2022",UPI,delivered,25,Pune
+ORD00838,CUST0076,27-05-2022,CASH,Delivered,0,Bangalore
+ORD00063,CUST0286,2022-08-01,Debit Card,Delivered,-5,Surat
+ORD00457,CUST0259,2023-09-17,Debit Card,delivered,10,Delhi
+ORD00214,CUST0106,2023-08-25,Debit Card,Returned,5,Chennai
+ORD00229,CUST0050,20/03/2022,CASH,delivered,20,Jaipur
+ORD00099,CUST0091,2022-11-12,Credit Card,cancelled,10,Kolkata
+ORD00749,CUST0093,"October 17, 2022",upi,Returned,0,Chennai
+ORD00929,CUST0032,"August 01, 2022",Cash,cancelled,5,Mumbai
+ORD00791,CUST0061,22/10/2022,CASH,delivered,5,Chennai
+ORD00449,CUST0104,05/06/2022,Cash,Delivered,10,Ahmedabad
+ORD00741,CUST0031,2022-05-23,Netbanking,Returned,,Lucknow
+ORD00285,CUST0093,"June 22, 2022",Net Banking,cancelled,20,Mumbai
+ORD00654,CUST0254,23-03-2023,credit card,Delivered,20,Bhopal
+ORD00455,CUST0102,08/09/2022,Debit Card,cancelled,10,Surat
+ORD00203,CUST0070,01-01-2023,UPI,Cancelled,0,Pune
+ORD00004,CUST0023,2022-05-13,UPI,Delivered,0,Lucknow
+ORD00554,CUST0271,12/09/2023,Cash,Cancelled,10,Delhi
+ORD00253,CUST0153,07.03.2022,upi,Delivered,10,Bangalore
+ORD00573,CUST0052,2023-06-24,UPI,cancelled,-5,Surat
+ORD00558,CUST0178,10.01.2023,wallet,Delivered,15,Jaipur
+ORD00613,CUST0067,28-03-2023,Netbanking,cancelled,10,Jaipur
+ORD00277,CUST9516,2022-12-29,wallet,cancelled,25,Chennai
+ORD00309,CUST0284,25.10.2022,CASH,Pending,0,Surat
+ORD00557,CUST0104,01/07/2023,UPI,Delivered,0,Jaipur
+ORD00460,CUST0080,14-07-2022,UPI,DELIVERED,0,Kolkata
+ORD00077,CUST0275,20-01-2022,Wallet,Returned,5,Mumbai
+ORD00238,CUST0157,"April 28, 2022",Debit Card,Delivered,10,Kolkata
+ORD00640,CUST0220,12-05-2022,Debit Card,Pending,10,Delhi
+ORD00821,CUST0289,2022-04-22,upi,Delivered,5,Ahmedabad
+ORD00799,CUST0101,29/09/2022,Debit Card,delivered,15,Hyderabad
+ORD00070,CUST0289,24.05.2023,wallet,delivered,20,Hyderabad
+ORD00458,CUST0154,02/09/2023,Debit Card,DELIVERED,20,Ahmedabad
+ORD00946,CUST0193,02-03-2022,UPI,Returned,0,Chennai
+ORD00611,CUST0181,02-04-2022,Debit Card,delivered,0,Ahmedabad
+ORD00751,CUST0254,24-12-2023,Cash,delivered,10,Chennai
+ORD00007,CUST0286,02-03-2023,UPI,cancelled,10,Chennai
+ORD00529,CUST0064,2023-02-20,Wallet,Delivered,0,Bhopal
+ORD00314,CUST0185,29-04-2023,Wallet,Delivered,0,Ahmedabad
+ORD00877,CUST0018,25.09.2022,Debit Card,Delivered,10,Ahmedabad
+ORD00385,CUST0006,"April 10, 2023",CASH,Pending,10,Surat
+ORD00144,CUST0125,2023-12-20,UPI,Delivered,0,Delhi
+ORD00191,CUST0299,2023-06-24,Net Banking,Delivered,5,Surat
+ORD00952,CUST0203,"May 14, 2023",Netbanking,Delivered,0,Mumbai
+ORD00923,CUST0195,15-01-2022,upi,Delivered,0,Lucknow
+ORD00879,CUST0197,04.12.2023,UPI,delivered,150,Chennai
+ORD00231,CUST0197,06.04.2023,credit card,delivered,10,Surat
+ORD00924,CUST0062,28.10.2023,upi,delivered,5,Mumbai
+ORD00174,CUST0059,27/10/2023,Wallet,Delivered,15,Jaipur
+ORD00873,CUST0218,04-09-2023,Netbanking,Delivered,10,Lucknow
+ORD00760,CUST0274,"April 20, 2023",Wallet,cancelled,10,Ahmedabad
+ORD00501,CUST0207,08.09.2022,Credit Card,Delivered,0,Bangalore
+ORD00930,CUST0164,2023-10-12,Cash,delivered,0,Delhi
+ORD00451,CUST0013,23/08/2022,upi,Delivered,10,Surat
+ORD00576,CUST0084,11/11/2022,CASH,Delivered,10,Surat
+ORD00362,CUST0031,09.05.2023,Wallet,Cancelled,5,Hyderabad
+ORD00540,CUST0057,14.07.2022,UPI,Delivered,5,Mumbai
+ORD00889,CUST0041,20-03-2023,Cash,cancelled,0,Jaipur
+ORD00492,CUST0075,13-11-2023,Wallet,Returned,0,Chennai
+ORD00255,CUST0129,2023-05-24,Cash,cancelled,0,Lucknow
+ORD00108,CUST0224,20.05.2022,Debit Card,Pending,0,Kolkata
+ORD00599,CUST0085,25/02/2022,wallet,Pending,10,Pune
+ORD00806,CUST0149,2022-10-02,Cash,Pending,20,Surat
+ORD00312,CUST0148,16/07/2022,upi,delivered,15,Surat
+ORD00590,CUST0151,17/04/2023,Netbanking,Pending,0,Bhopal
+ORD00737,CUST0153,2022-04-14,CASH,Delivered,0,Hyderabad
+ORD00061,CUST0255,26.05.2023,UPI,cancelled,20,Ahmedabad
+ORD00486,CUST0252,"April 03, 2022",Cash,cancelled,10,Bhopal
+ORD00721,CUST0214,12.03.2023,UPI,Cancelled,0,Lucknow
+ORD00330,CUST0208,"July 22, 2022",Credit Card,Delivered,5,Bhopal
+ORD00771,CUST0172,"February 22, 2023",CASH,Cancelled,10,Chennai
+ORD00537,CUST0079,25/02/2023,CASH,Delivered,0,Ahmedabad
+ORD00256,CUST0200,2022-08-30,Cash,Delivered,10,Ahmedabad
+ORD00496,CUST0037,"June 25, 2023",Net Banking,Delivered,5,Lucknow
+ORD00572,CUST0097,13/03/2022,Credit Card,Pending,0,Kolkata
+ORD00035,CUST0288,"December 31, 2023",UPI,Delivered,0,Bhopal
+ORD00855,CUST0236,25/03/2022,Net Banking,Delivered,5,Chennai
+ORD00234,CUST0260,"February 27, 2022",Net Banking,delivered,10,Pune
+ORD00186,CUST0076,"January 17, 2023",Netbanking,Delivered,15,Kolkata
+ORD00130,CUST0233,11-10-2022,wallet,Returned,-5,Kolkata
+ORD00747,CUST0181,18/07/2022,credit card,Delivered,10,Hyderabad
+ORD00954,CUST0048,"July 26, 2023",Netbanking,Delivered,0,Ahmedabad
+ORD00217,CUST0051,"August 08, 2022",CASH,Returned,20,Delhi
+ORD00175,CUST0217,11-10-2022,Credit Card,Returned,0,Delhi
+ORD00861,CUST0096,02-05-2023,CASH,cancelled,0,Lucknow
+ORD00750,CUST0067,2023-09-13,CASH,Delivered,10,Hyderabad
+ORD00729,CUST0244,28/11/2022,Cash,Delivered,5,Kolkata
+ORD00296,CUST0115,"October 26, 2023",CASH,DELIVERED,0,Delhi
+ORD00538,CUST0203,19/01/2023,upi,Pending,5,Ahmedabad
+ORD00926,CUST0035,2022-10-05,Netbanking,DELIVERED,,Jaipur
+ORD00591,CUST0071,01.05.2022,credit card,Delivered,0,Surat
+ORD00415,CUST0108,"May 01, 2023",Netbanking,cancelled,5,Ahmedabad
+ORD00267,CUST0067,01.09.2023,upi,delivered,10,Bangalore
+ORD00183,CUST0191,23-10-2022,Debit Card,Returned,0,Bangalore
+ORD00046,CUST0041,"December 06, 2023",Debit Card,DELIVERED,15,Bangalore
+ORD00893,CUST0163,10-04-2022,Cash,Delivered,5,Bhopal
+ORD00784,CUST0151,"May 02, 2022",upi,cancelled,10,Mumbai
+ORD00382,CUST0229,2023-08-16,Credit Card,Delivered,0,Bhopal
+ORD00193,CUST0185,12.02.2023,credit card,Returned,0,Pune
+ORD00337,CUST0185,11.04.2023,Debit Card,Pending,-5,Ahmedabad
+ORD00487,CUST0196,01/11/2023,credit card,Delivered,20,Delhi
+ORD00031,CUST0010,2023-01-21,wallet,DELIVERED,-5,Bhopal
+ORD00110,CUST0004,15-08-2023,Cash,DELIVERED,15,Pune
+ORD00867,CUST0154,04/09/2023,Cash,cancelled,20,Mumbai
+ORD00213,CUST0031,2023-04-26,Net Banking,Delivered,-5,Delhi
+ORD00857,CUST0091,2022-10-30,CASH,Cancelled,5,Pune
+ORD00437,CUST0226,"January 02, 2023",Cash,Delivered,0,Surat
+ORD00076,CUST0172,19-04-2023,UPI,DELIVERED,10,Jaipur
+ORD00989,CUST0182,"June 23, 2023",Debit Card,cancelled,25,Pune
+ORD00676,CUST0007,18/11/2023,CASH,Pending,5,Lucknow
+ORD00105,CUST0016,29-08-2022,Wallet,Pending,10,Kolkata
+ORD00107,CUST9663,07/06/2022,wallet,Delivered,,Ahmedabad
+ORD00329,CUST0207,"April 02, 2023",Netbanking,cancelled,5,Surat
+ORD00246,CUST0093,20.01.2022,Debit Card,cancelled,20,Bhopal
+ORD00088,CUST0294,"September 08, 2022",Credit Card,Cancelled,0,Mumbai
+ORD00829,CUST0139,"June 20, 2023",Wallet,Returned,10,Jaipur
+ORD00957,CUST0222,2022-01-22,Wallet,Cancelled,10,Mumbai
+ORD00131,CUST0199,07/12/2022,Net Banking,Cancelled,0,Hyderabad
+ORD00074,CUST0059,"December 04, 2023",upi,Pending,-5,Hyderabad
+ORD00895,CUST0007,18.12.2022,upi,Returned,10,Ahmedabad
+ORD00698,CUST0142,"November 13, 2022",UPI,cancelled,5,Delhi
+ORD00433,CUST0237,26.01.2023,credit card,Delivered,10,Bhopal
+ORD00102,CUST0106,29-11-2023,Net Banking,cancelled,10,Bhopal
+ORD00642,CUST0284,2022-06-12,Cash,Delivered,,Bangalore
+ORD00993,CUST0001,18/03/2022,Netbanking,Cancelled,5,Delhi
+ORD00534,CUST0202,2022-08-11,wallet,DELIVERED,5,Ahmedabad
+ORD00228,CUST0256,"November 26, 2023",Debit Card,Pending,0,Lucknow
+ORD00951,CUST0102,2023-11-25,Net Banking,cancelled,5,Kolkata
+ORD00465,CUST0131,2022-09-11,Wallet,Delivered,25,Bhopal
+ORD00357,CUST0261,2023-06-01,Credit Card,Cancelled,10,Delhi
+ORD00600,CUST0172,"January 29, 2022",Net Banking,Delivered,5,Mumbai
+ORD00920,CUST9372,"August 05, 2022",Net Banking,Delivered,25,Bhopal
+ORD00216,CUST0297,15-01-2022,Cash,Delivered,20,Mumbai
+ORD00501,CUST0207,08.09.2022,Credit Card,Delivered,0,Bangalore
+ORD00187,CUST0256,2022-05-29,upi,Delivered,15,Jaipur
+ORD00803,CUST0201,05-09-2023,Netbanking,delivered,10,Chennai
+ORD00688,CUST0245,2022-11-09,Debit Card,Returned,5,Ahmedabad
+ORD00303,CUST0007,"June 25, 2022",CASH,Pending,15,Lucknow
+ORD00405,CUST0248,22.05.2023,Net Banking,cancelled,15,Surat
+ORD00230,CUST0134,2023-07-10,Netbanking,DELIVERED,150,Delhi
+ORD00622,CUST0153,31/12/2023,credit card,DELIVERED,15,Mumbai
+ORD00724,CUST0269,04/02/2023,Credit Card,Delivered,20,Pune
+ORD00820,CUST0056,09.04.2023,Wallet,Delivered,5,Ahmedabad
+ORD00623,CUST0048,15/03/2023,Net Banking,Delivered,10,Ahmedabad
+ORD00908,CUST0235,13/01/2023,Debit Card,delivered,5,Mumbai
+ORD00948,CUST0154,11.08.2023,Netbanking,Delivered,5,Surat
+ORD00561,CUST0197,30-07-2023,credit card,cancelled,,Hyderabad
+ORD00701,CUST0148,2022-03-08,UPI,delivered,5,Delhi
+ORD00757,CUST0115,"July 30, 2022",Debit Card,Pending,10,Jaipur
+ORD00878,CUST0043,2022-12-21,wallet,Pending,0,Jaipur
+ORD00368,CUST0040,2023-07-06,wallet,delivered,0,Lucknow
+ORD00373,CUST0088,"July 20, 2023",wallet,cancelled,-5,Bhopal
+ORD00589,CUST0286,01-05-2023,Credit Card,Delivered,0,Bangalore
+ORD00785,CUST0038,30.12.2022,credit card,delivered,15,Bangalore
+ORD00936,CUST0156,07/04/2022,upi,DELIVERED,15,Hyderabad
+ORD00827,CUST0102,25.03.2023,UPI,Pending,0,Ahmedabad
+ORD00657,CUST0197,16-03-2023,Wallet,Returned,5,Ahmedabad
+ORD00232,CUST0156,25/12/2023,CASH,Pending,0,Delhi
+ORD00865,CUST0173,10/05/2023,Net Banking,Delivered,10,Jaipur
+ORD00813,CUST0257,12-02-2023,UPI,Delivered,15,Bhopal
+ORD00680,CUST0057,04-09-2022,CASH,Delivered,0,Ahmedabad
+ORD00140,CUST0098,"May 24, 2022",Cash,Delivered,0,Jaipur
+ORD00581,CUST0023,"September 12, 2023",Debit Card,Pending,0,Kolkata
+ORD00942,CUST0182,2023-10-24,CASH,Cancelled,0,Surat
+ORD00679,CUST0143,"March 10, 2023",wallet,Cancelled,0,Delhi
+ORD00052,CUST0021,26/07/2023,Netbanking,Delivered,10,Chennai
+ORD00351,CUST0093,"January 20, 2022",Cash,Delivered,5,Lucknow
+ORD00147,CUST0280,"May 21, 2022",Cash,Delivered,150,Bangalore
+ORD00690,CUST0088,27.11.2023,Wallet,Returned,0,Hyderabad
+ORD00632,CUST0084,10.07.2023,credit card,Cancelled,10,Delhi
+ORD00909,CUST0106,"August 15, 2023",CASH,Delivered,15,Bangalore
+ORD00633,CUST0045,"April 17, 2022",wallet,Delivered,0,Bhopal
+ORD00068,CUST0108,"September 19, 2023",Credit Card,cancelled,0,Bhopal
+ORD00467,CUST0130,10.12.2023,Netbanking,DELIVERED,5,Bhopal
+ORD00248,CUST0237,01.06.2022,Debit Card,Cancelled,5,Delhi
+ORD00666,CUST0237,"October 19, 2022",credit card,Delivered,,Mumbai
+ORD00379,CUST0128,2022-07-21,upi,Cancelled,0,Ahmedabad
+ORD00115,CUST0149,"June 21, 2022",Wallet,Cancelled,0,Lucknow
+ORD00681,CUST0181,29-09-2022,Netbanking,Delivered,0,Jaipur
+ORD00493,CUST0294,05.05.2023,CASH,Cancelled,5,Bangalore
+ORD00245,CUST0161,"July 24, 2022",credit card,Cancelled,10,Jaipur
+ORD00609,CUST0255,"April 10, 2022",Debit Card,Cancelled,0,Delhi
+ORD00450,CUST0169,"May 18, 2022",upi,Delivered,5,Chennai
+ORD00036,CUST0081,19-01-2022,wallet,Returned,10,Jaipur
+ORD00943,CUST0132,29.10.2022,UPI,Returned,10,Jaipur
+ORD00259,CUST0244,2023-01-12,UPI,cancelled,5,Mumbai
+ORD00624,CUST0275,"December 07, 2023",credit card,Returned,,Hyderabad
+ORD00013,CUST0193,18.07.2023,upi,delivered,-5,Chennai
+ORD00155,CUST0255,2022-06-30,wallet,Delivered,0,Kolkata
+ORD00740,CUST0299,2023-04-28,wallet,Delivered,5,Pune
+ORD00317,CUST0082,28-06-2022,UPI,Delivered,20,Delhi
+ORD00693,CUST9361,11.11.2023,Net Banking,Returned,15,Pune
+ORD00104,CUST0032,"January 14, 2023",UPI,Delivered,20,Chennai
+ORD00804,CUST0215,2023-04-03,Cash,Pending,10,Surat
+ORD00185,CUST0065,28/03/2023,upi,Delivered,150,Pune
+ORD00261,CUST0122,30-03-2023,UPI,Pending,10,Hyderabad
+ORD00884,CUST0013,10-07-2023,Debit Card,Cancelled,5,Chennai
+ORD00502,CUST0193,10-12-2023,CASH,Pending,0,Mumbai
+ORD00919,CUST0151,08-06-2022,Debit Card,cancelled,0,Hyderabad
+ORD00239,CUST0291,12.06.2023,Net Banking,Delivered,10,Kolkata
+ORD00504,CUST0246,08.10.2022,Wallet,Delivered,0,Kolkata
+ORD00667,CUST0036,27-04-2023,credit card,Cancelled,0,Delhi
+ORD00324,CUST0213,05.01.2023,Debit Card,DELIVERED,5,Kolkata
+ORD00966,CUST9389,05.05.2023,Netbanking,Delivered,5,Kolkata
+ORD00148,CUST0213,22.06.2022,Netbanking,Delivered,10,Bangalore
+ORD00194,CUST0158,02.04.2023,Credit Card,Delivered,20,Ahmedabad
+ORD00507,CUST0266,22/08/2023,wallet,Delivered,20,Bangalore
+ORD00933,CUST0139,20.05.2023,upi,DELIVERED,0,Chennai
+ORD00669,CUST0063,18/01/2023,Credit Card,Delivered,-5,Pune
+ORD00509,CUST0083,2022-03-31,Net Banking,Delivered,20,Pune
+ORD00179,CUST0012,28/10/2022,wallet,DELIVERED,10,Bhopal
+ORD00811,CUST0275,23/07/2022,Netbanking,Pending,0,Pune
+ORD00286,CUST0270,08/08/2023,credit card,Delivered,0,Pune
+ORD00195,CUST0148,"June 17, 2022",credit card,Delivered,10,Chennai
+ORD00095,CUST0208,20-04-2022,Netbanking,Delivered,10,Kolkata
+ORD00268,CUST0168,16-10-2022,Credit Card,Pending,5,Lucknow
+ORD00119,CUST0121,12-05-2023,Netbanking,Delivered,0,Lucknow
+ORD00717,CUST0228,05.02.2023,Credit Card,Cancelled,0,Hyderabad
+ORD00958,CUST0116,27/11/2022,Debit Card,Cancelled,10,Jaipur
+ORD00706,CUST0166,16-08-2023,wallet,Delivered,0,Chennai
+ORD00180,CUST0011,26/10/2022,Credit Card,Delivered,5,Pune
+ORD00435,CUST0225,24/05/2022,Net Banking,Delivered,15,Bangalore
+ORD00127,CUST0229,26/12/2022,Net Banking,Cancelled,5,Mumbai
+ORD00440,CUST0099,28/11/2023,Cash,Delivered,,Delhi
+ORD00978,CUST0116,07-11-2023,Credit Card,Pending,0,Hyderabad
+ORD00775,CUST0063,"June 25, 2023",Wallet,delivered,0,Hyderabad
+ORD00353,CUST0271,2022-11-21,Net Banking,Delivered,10,Chennai
+ORD00872,CUST0199,12-05-2022,Debit Card,Pending,10,Bhopal
+ORD00532,CUST0254,24-01-2023,upi,Delivered,0,Jaipur
+ORD00220,CUST0021,26.03.2022,CASH,Delivered,10,Chennai
+ORD00854,CUST0045,10/07/2022,Wallet,Delivered,10,Pune
+ORD00255,CUST0129,2023-05-24,Cash,cancelled,0,Lucknow
+ORD00994,CUST0031,25/02/2023,Debit Card,delivered,0,Hyderabad
+ORD00845,CUST0130,2023-05-30,Wallet,Cancelled,0,Kolkata
+ORD00003,CUST0079,20-09-2023,upi,Pending,5,Delhi
+ORD00999,CUST0175,2022-10-06,credit card,Cancelled,0,Bangalore
+ORD00141,CUST0158,2023-05-27,CASH,Delivered,20,Bhopal
+ORD00511,CUST0151,"November 06, 2023",CASH,Delivered,20,Pune
+ORD00498,CUST0075,03-08-2022,Cash,Delivered,5,Surat
+ORD00274,CUST0015,25.10.2022,Cash,cancelled,5,Surat
+ORD00338,CUST0110,02.04.2023,upi,DELIVERED,0,Kolkata
+ORD00190,CUST0206,2023-09-25,CASH,Returned,5,Hyderabad
+ORD00084,CUST0171,24-04-2023,Credit Card,DELIVERED,0,Surat
+ORD00248,CUST0237,01.06.2022,Debit Card,Cancelled,5,Delhi
+ORD00215,CUST0297,"December 23, 2022",Debit Card,DELIVERED,10,Delhi
+ORD00165,CUST0077,2023-08-11,credit card,Delivered,0,Jaipur
+ORD00902,CUST0143,24-11-2022,wallet,Delivered,10,Hyderabad
+ORD00846,CUST0023,"December 14, 2023",Net Banking,Delivered,5,Ahmedabad
+ORD00798,CUST0163,2022-07-14,wallet,Delivered,20,Hyderabad
+ORD00153,CUST0061,"June 27, 2023",Wallet,Returned,0,Surat
+ORD00568,CUST0055,"December 06, 2023",wallet,Cancelled,10,Hyderabad
+ORD00655,CUST0144,07-02-2023,Wallet,cancelled,0,Bhopal
+ORD00143,CUST0077,17/08/2023,Credit Card,Delivered,,Mumbai
+ORD00618,CUST0109,21.12.2023,Credit Card,Cancelled,15,Ahmedabad
+ORD00341,CUST0263,26.06.2023,Cash,delivered,0,Jaipur
+ORD00597,CUST0140,05/04/2022,credit card,Delivered,150,Bangalore
+ORD00472,CUST0094,"July 16, 2022",credit card,delivered,5,Delhi
+ORD00121,CUST0177,25/02/2022,Credit Card,Delivered,5,Ahmedabad
+ORD00842,CUST0129,03-12-2023,Netbanking,Pending,0,Ahmedabad
+ORD00684,CUST0266,20/03/2023,wallet,Delivered,0,Mumbai
+ORD00154,CUST0107,11/10/2022,Cash,Delivered,0,Ahmedabad
+ORD00126,CUST9100,2022-11-17,UPI,Delivered,20,Surat
+ORD00781,CUST0102,2022-07-04,UPI,Delivered,15,Bhopal
+ORD00092,CUST0050,12.04.2023,wallet,delivered,5,Lucknow
+ORD00207,CUST0211,15/12/2022,Credit Card,Delivered,0,Jaipur
+ORD00819,CUST0274,03.06.2023,credit card,Delivered,5,Jaipur
+ORD00515,CUST0218,2023-12-13,Netbanking,Delivered,0,Surat
+ORD00404,CUST0261,19/01/2023,Netbanking,delivered,15,Bhopal
+ORD00056,CUST0104,11/04/2023,Net Banking,Returned,0,Delhi
+ORD00672,CUST0195,04.10.2022,Debit Card,cancelled,0,Bangalore
+ORD00764,CUST0226,10.01.2022,UPI,Returned,15,Kolkata
+ORD00754,CUST0063,17.01.2023,UPI,Delivered,0,Delhi
+ORD00546,CUST0220,"July 23, 2022",Credit Card,DELIVERED,15,Lucknow
+ORD00523,CUST0263,01/01/2024,wallet,Delivered,0,Mumbai
+ORD00027,CUST0013,09.11.2022,upi,cancelled,0,Hyderabad
+ORD00627,CUST0209,27/09/2022,UPI,delivered,20,Lucknow
+ORD00979,CUST0129,"July 09, 2022",upi,delivered,5,Chennai
+ORD00650,CUST9534,"December 22, 2022",Wallet,cancelled,15,Delhi
+ORD00662,CUST0288,09/03/2022,Net Banking,cancelled,10,Chennai
+ORD00526,CUST0157,13-10-2023,Net Banking,Pending,0,Delhi
+ORD00500,CUST0027,"May 01, 2022",wallet,Returned,20,Bhopal
+ORD00758,CUST0179,"January 27, 2022",upi,Cancelled,,Lucknow
+ORD00182,CUST0228,14-04-2023,Wallet,Delivered,5,Ahmedabad
+ORD00391,CUST0028,09/03/2023,Cash,Delivered,10,Surat
+ORD00809,CUST0106,03-10-2023,Wallet,cancelled,0,Bhopal
+ORD00953,CUST0259,"December 01, 2022",CASH,Cancelled,-5,Lucknow
+ORD00850,CUST0087,24.08.2023,Netbanking,Delivered,10,Mumbai
+ORD00652,CUST0059,11/08/2022,upi,Delivered,0,Bangalore
+ORD00921,CUST0265,20-02-2023,Wallet,Delivered,15,Jaipur
+ORD00945,CUST0246,31.08.2023,UPI,Pending,15,Lucknow
+ORD00742,CUST0019,"December 21, 2022",credit card,cancelled,0,Ahmedabad
+ORD00739,CUST0266,"September 18, 2023",Net Banking,Pending,20,Delhi
+ORD00707,CUST0157,"March 29, 2022",Wallet,delivered,5,Kolkata
+ORD00832,CUST0003,"November 16, 2022",Cash,Delivered,5,Lucknow
+ORD00036,CUST0081,19-01-2022,wallet,Returned,10,Jaipur
+ORD00276,CUST0197,2023-12-27,Wallet,Cancelled,150,Hyderabad
+ORD00883,CUST0251,17-04-2023,UPI,cancelled,10,Chennai
+ORD00355,CUST0167,05.07.2022,UPI,Cancelled,0,Pune
+ORD00612,CUST0072,07-05-2022,CASH,Delivered,25,Lucknow
+ORD00093,CUST0133,08-01-2023,Debit Card,Returned,150,Delhi
+ORD00098,CUST0294,14.05.2023,Wallet,cancelled,0,Ahmedabad
+ORD00880,CUST0060,11.09.2023,Netbanking,Returned,15,Pune
+ORD00963,CUST0228,02.08.2022,UPI,delivered,10,Kolkata
+ORD00437,CUST0226,"January 02, 2023",Cash,Delivered,0,Surat
+ORD00079,CUST0162,2023-12-28,Net Banking,Pending,0,Ahmedabad
+ORD00295,CUST0217,13.01.2023,Debit Card,Pending,25,Ahmedabad
+ORD00177,CUST0034,12.07.2022,Credit Card,Delivered,15,Delhi
+ORD00914,CUST0054,30/05/2022,Wallet,Delivered,5,Bangalore
+ORD00651,CUST0099,"September 13, 2023",Netbanking,Delivered,0,Pune
+ORD00285,CUST0093,"June 22, 2022",Net Banking,cancelled,20,Mumbai
+ORD00621,CUST0217,2022-10-04,wallet,Delivered,5,Delhi
+ORD00900,CUST0193,2023-07-05,credit card,cancelled,0,Delhi
+ORD00759,CUST0223,14.03.2023,Credit Card,DELIVERED,0,Chennai
+ORD00211,CUST0117,2022-11-11,Cash,Delivered,0,Delhi
+ORD00970,CUST0020,04-03-2022,Cash,Cancelled,25,Kolkata
+ORD00407,CUST0293,2022-06-10,Net Banking,DELIVERED,10,Ahmedabad
+ORD00051,CUST0267,22/04/2022,CASH,Delivered,15,Bhopal
+ORD00518,CUST0281,21-02-2023,upi,Delivered,0,Bangalore
+ORD00408,CUST0266,27.12.2022,Wallet,Delivered,5,Ahmedabad
+ORD00400,CUST0223,30/12/2023,Credit Card,Delivered,0,Kolkata
+ORD00157,CUST0081,2022-01-30,Netbanking,Delivered,15,Lucknow
+ORD00748,CUST0212,04/07/2023,UPI,Delivered,-5,Ahmedabad
+ORD00916,CUST0126,24-09-2022,Net Banking,delivered,10,Lucknow
+ORD00547,CUST0077,2022-08-23,Debit Card,Pending,0,Bangalore
+ORD00139,CUST0098,03.11.2022,Credit Card,Returned,10,Bhopal
+ORD00314,CUST0185,29-04-2023,Wallet,Delivered,0,Ahmedabad
+ORD00990,CUST0277,24/08/2022,Debit Card,Returned,20,Surat
+ORD00718,CUST0280,"September 24, 2022",wallet,delivered,25,Mumbai
+ORD00067,CUST0034,27-10-2022,Debit Card,Delivered,15,Hyderabad
+ORD00726,CUST0193,"April 29, 2023",wallet,Delivered,25,Surat
+ORD00515,CUST0218,2023-12-13,Netbanking,Delivered,0,Surat
+ORD00044,CUST0141,05/06/2022,Credit Card,Delivered,5,Lucknow
+ORD00347,CUST0230,"June 02, 2022",Credit Card,cancelled,10,Kolkata
+ORD00735,CUST0271,24.05.2023,Cash,cancelled,5,Jaipur
+ORD00037,CUST0142,"March 05, 2022",credit card,Delivered,5,Pune
+ORD00551,CUST0021,01/01/2022,wallet,Returned,0,Lucknow
+ORD00917,CUST0141,"September 01, 2023",Debit Card,Delivered,0,Pune
+ORD00815,CUST9850,2022-03-20,Netbanking,Pending,0,Bangalore
+ORD00671,CUST0027,23-09-2022,Credit Card,Delivered,0,Lucknow
+ORD00237,CUST0029,09-11-2023,Cash,Delivered,5,Delhi
+ORD00170,CUST0198,09-12-2023,Netbanking,Delivered,10,Lucknow
+ORD00038,CUST0202,"November 04, 2023",Credit Card,Pending,0,Surat
+ORD00971,CUST0089,28-06-2022,Debit Card,Delivered,20,Bangalore
+ORD00439,CUST0128,2023-01-19,Cash,Delivered,5,Pune
+ORD00009,CUST0128,07.08.2023,Netbanking,DELIVERED,0,Lucknow
+ORD00521,CUST0283,05/10/2022,Credit Card,Delivered,25,Bangalore
+ORD00100,CUST0168,22/05/2023,Credit Card,Delivered,0,Surat
+ORD00655,CUST0144,07-02-2023,Wallet,cancelled,0,Bhopal
+ORD00991,CUST0116,05/06/2022,Wallet,Pending,20,Kolkata
